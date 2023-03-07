@@ -18,25 +18,38 @@ app.get('/skills', (req: express.Request, res: express.Response) => {
 	res.json(model.getSkills());
 });
 
-// app.get('/books/:id', (req: express.Request, res: express.Response) => {
-// 	const id = Number(req.params.id);
-// 	if (isNaN(id)) {
-// 		res.status(400).send({
-// 			error: true,
-// 			message: "sent string, should be number"
-// 		});
-// 	} else {
-// 		const book = model.getBook(id);
-// 		if (book === undefined) {
-// 			res.status(404).send({
-// 				error: true,
-// 				message: "id did not correspond to an existing item"
-// 			});
-// 		} else {
-// 			res.json(book);
-// 		}
-// 	}
-// });
+app.get('/jobs/:id', (req: express.Request, res: express.Response) => {
+	const id = Number(req.params.id);
+	if (isNaN(id)) {
+		res.status(400).send({
+			error: true,
+			message: "sent string, should be number"
+		});
+	} else {
+		const job = model.getJob(id);
+		if (job === undefined) {
+			res.status(404).send({
+				error: true,
+				message: "id did not correspond to an existing item"
+			});
+		} else {
+			res.json(job);
+		}
+	}
+});
+
+app.get('/skills/:idCode', (req: express.Request, res: express.Response) => {
+	const idCode = req.params.idCode;
+	const skill = model.getSkill(idCode);
+	if (skill === undefined) {
+		res.status(404).send({
+			error: true,
+			message: "idCode did not correspond to an existing item"
+		});
+	} else {
+		res.json(skill);
+	}
+});
 
 app.listen(config.port, () => {
 	console.log(`listening on port http://localhost:${config.port}`);

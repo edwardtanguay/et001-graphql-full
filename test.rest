@@ -6,5 +6,11 @@
 ### ALL JOBS
 {{url}}/jobs
 
-### SINGLE BOOK 
-{{url}}/jobs/2
+### ALL SKILLS
+{{url}}/skills
+
+### SINGLE JOB
+{{url}}/jobs/3
+
+### SINGLE SKILL
+{{url}}/skills/node

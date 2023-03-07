@@ -29,7 +29,15 @@ export const getJobs = (): IJob[] => {
 	return jobs;
 }
 
+export const getJob = (id: number): IJob => {
+	return jobs.find(m => m.id === id);
+}
+
 export const getSkills = (): ISkill[] => {
 	return skills;
+}
+
+export const getSkill = (idCode: string): ISkill => {
+	return skills.find(m => m.idCode === idCode);
 }
 
