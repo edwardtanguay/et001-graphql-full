@@ -2,9 +2,37 @@ import * as model from './model.js';
 import express from 'express';
 import cors from 'cors';
 import * as config from './config.js';
+import { graphqlHTTP } from 'express-graphql';
+import { schema } from './schema.js';
 
 const app = express();
 app.use(cors());
+
+// GRAPHQL
+
+const root = {
+	message: () => {
+		return 'this is the message';
+	},
+	departments: [
+		"Sales",
+		"Marketing",
+		"Executive",
+		"Development"
+	]
+};
+
+app.use(
+	'/graphql',
+	graphqlHTTP({
+		schema,
+		rootValue: root,
+		graphiql: true,
+	})
+);
+
+
+// REST
 
 app.get('/', (req: express.Request, res: express.Response) => {
 	res.send(model.getApiInstructions());
