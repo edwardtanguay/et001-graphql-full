@@ -1,17 +1,8 @@
 import fs from 'fs';
-import { IBook, IRawBook } from './interfaces.js';
+import { IJob, ISkill } from './interfaces.js';
 
-const rawBooks: IRawBook[] = JSON.parse(fs.readFileSync('./src/data/rawBooks.json', 'utf8'));
-
-const books: IBook[] = rawBooks.map(rawBook => {
-	return {
-		id: rawBook.id,
-		idCode: rawBook.idCode,
-		title: rawBook.title,
-		description: rawBook.description,
-		language: rawBook.language === '' ? 'english' : rawBook.language
-	}
-});
+const jobs: IJob[] = JSON.parse(fs.readFileSync('./src/data/jobs.json', 'utf8'));
+const skills: ISkill[] = JSON.parse(fs.readFileSync('./src/data/skills.json', 'utf8'));
 
 export const getApiInstructions = () => {
 	return `
@@ -34,10 +25,11 @@ export const getApiInstructions = () => {
 	`;
 }
 
-export const getBooks = (): IBook[] => {
-	return books;
+export const getJobs = (): IJob[] => {
+	return jobs;
 }
 
-export const getBook = (id: number): IBook => {
-	return books.find(m => m.id === id);
+export const getSkills = (): ISkill[] => {
+	return skills;
 }
+

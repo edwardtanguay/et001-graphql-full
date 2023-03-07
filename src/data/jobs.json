@@ -1,0 +1,893 @@
+[
+	{
+		"id": 1,
+		"title": "Frontend Developer",
+		"company": "PwC Deutschland",
+		"url": "https://www.get-in-it.de/jobsuche/p172318?filter[thematic_priority]=5&filter[city][radius]=25&filter[city][city][0][lon]=13.41053&filter[city][city][0][lat]=52.52437&start=0&limit=39&ref=Jobsuche",
+		"description": "Frontend-Entwicklung - Unser Produkt ist zentraler Bestandteil der Digitalisierungsstrategie von PwC Deutschland. Unsere Lösungen sollen komplexe Probleme einfach machen, dafür brauchen wir intuitive und moderne Frontends - und die baust du! Du bist zentrale:r Ansprechpartner:in für die Frontend Entwicklung eines wichtigen internationalen Prüfungstools in einem agilen Team der Digital Factory. Du konzipierst Responsive Web-Apps mit JavaScript /TypeScript und Angular und entwickelst diese weiter. Du kannst schnell UI-Prototypen aufsetzen, aber auch robuste, skalierbare Frontends im Angular Framework für unser Tool implementieren.\n\nFachliche Expertise - Du hast bereits Erfahrung in der Entwicklung von Web Applikationen mit HTML, CSS und JavaScript/TypeScript. Moderne UI Frameworks (Angular) hast du bereits erfolgreich eingesetzt, idealerweise hast du auch schon Erfahrung mit WebSocket.\n\nAgile Mindset - Du lebst und liebst Frontend-Technologien und entwickelst so kontinuierlich Produkt, Prozesse und Zusammenarbeit weiter.\n\nTeamwork - Unsere Teams sind cross-funktional. Du arbeitest Hand in Hand mit anderen Entwickler:innen, Automation Engineers und UX Kolleg:innen an der gemeinsamen Produktvision.\n\nArbeite wie es zu deinem Leben passt: mit FlexWork. Keine fixen Home-Office-Tage, sondern deine Chance Arbeitszeit und -ort variabel zu gestalten.\nDein Profil\n\nDu verfügst über ein abgeschlossenes Studium im Bereich Informatik oder eine vergleichbare Ausbildung und bringst Berufserfahrung im IT Umfeld, insbesondere im Frontend-Bereich, mit.\n\nDu hast ein grundlegendes Verständnis von Build-Prozessen, CI/ CD, Testing. Die Testautomatisierung im Frontend-Bereich ist für dich kein Neuland.\n\nDu hast idealerweise auch Erfahrungen im User Tracking mit Hotjar oder Piwik.\n\nDu suchst ein agiles Umfeld, in dem du deine Stärken ausspielen kannst.\n\nSehr gute Deutsch- und Englischkenntnisse helfen dir dabei, deine Ideen auch im internationalen Kontext oder mit internationalen Teamkolleg:innen zu teilen.",
+		"skillList": "angular, cicd, testing, hotjar, piwik",
+		"publicationDate": "2022-11-17"
+	},
+	{
+		"id": 2,
+		"title": "Frontend-Entwickler",
+		"company": "networker, solutions",
+		"url": "https://www.get-in-it.de/jobsuche/p197373?filter[thematic_priority]=5&filter[city][radius]=25&filter[city][city][0][lon]=13.41053&filter[city][city][0][lat]=52.52437&start=0&limit=39&ref=Jobsuche",
+		"description": "Deine Aufgaben bei uns\n\n    Entwicklung von Frontend und UI-Komponenten\n    Betreuung und Weiterentwicklung bestehender Systeme\n    Zusammenarbeit mit anderen Dienstleistern an gemeinsamen Kundenprojekten\n    Umsetzung eigener Webentwicklung gemeinsam mit den Teams\n\nDeine Kompetenzen\n\n    JavaScript, Type Script\n    HTML + CSS\n    React\n    Jest Testing\n    RESTful APIs + Swagger\n    Git, Gitlab\n    Webstorm\n    NestJs\n    UX-Design",
+		"skillList": "typescript, react, jest, rest, swagger, git, gitlab, webstorm, nestjs, ux",
+		"publicationDate": "2022-11-17"
+	},
+	{
+		"id": 3,
+		"title": "Web Frontend Entwickler",
+		"company": "EPI development",
+		"url": "https://www.get-in-it.de/jobsuche/p132078?filter[thematic_priority]=5&filter[city][radius]=25&filter[city][city][0][lon]=13.41053&filter[city][city][0][lat]=52.52437&start=0&limit=39&ref=Jobsuche",
+		"description": "Die Herausforderung\n\n    Erstellung einer Bedarfsanalyse für neue Funktionen mit einer selbsterklärenden UI Gestaltung\n    Entwickeln von Funktionen und Algorithmen die nachhaltig lesbar sind\n    Der Fokus liegt in der Vereinfachung komplexer Vorgänge\n\nDeine Aufgaben\n\n    Weiterentwicklung von epirent aufgrund von aktuellen Anforderungen\n    Im Team Lösungen für neue Funktionen erarbeiten\n    Erstellen von gut bedienbaren und ausgeklügelten UI, denke wie ein Anwender\n    Kommunikation im Team, einbringen eigener Ideen\n    Offener Umgang mit neuen Technologien\n    Kreativität ist gefragt\n\nDeine Fähigkeiten\n\n    Weitreichende Erfahrungen in der Anwendungsprogrammierung\n    Klare und selbsterklärende UI Designs erstellen\n    Komplizierte technische Zusammenhänge auf einfache Funktionen herunterbrechen\n    Kommunikativ im Team, zielorientiert und selbständig in der Arbeitsorganisation\n    Deine Sprachkenntnisse (optimal): JavaScript, CSS, HTML, Bootstrap, AngularJS, API Entwicklung (REST), Responsive Design / Progressive Apps\n    Kein Hochschulabschluss notwendig, Können zählt!",
+		"skillList": "angular, bootstrap, rest, responsive, pwa",
+		"publicationDate": "2022-11-17"
+	},
+	{
+		"id": 4,
+		"title": "Frontend Developer",
+		"company": "reuter onlineshop",
+		"url": "https://www.get-in-it.de/jobsuche/p206536?filter[thematic_priority]=5&filter[city][radius]=25&filter[city][city][0][lon]=13.41053&filter[city][city][0][lat]=52.52437&start=0&limit=39&ref=Jobsuche",
+		"description": "Successfully completed studies with a focus on computer science, a similar education or relevant professional experience\nVery good knowledge in React or similar\nGood knowledge of HTML, CSS, JavaScript and Jest/Mocha\nTypeScript, Gitlab, Next.js, styled-components, Storybook and Webpack sound familiar to you\nInspire with your innovative thinking and don't lose sight of the big picture\nGet actively involved in professional discussions",
+		"skillList": "react, jest, mocha, typescript, gitlab, nextjs, styledcomponents, storybook, webpack",
+		"publicationDate": "2022-12-06"
+	},
+	{
+		"id": 5,
+		"title": "Frontend Developer und Consultant",
+		"company": "codecentric",
+		"url": "https://www.get-in-it.de/jobsuche/p206964?filter[thematic_priority]=5&filter[city][radius]=25&filter[city][city][0][lon]=13.41053&filter[city][city][0][lat]=52.52437&start=0&limit=39&ref=Jobsuche",
+		"description": "Du hast ein tiefes, technisches Verständnis von Webtechnologien, wie JavaScript, TypeScript, HTML5 und CSS3 sowie Angular, ReactJS und/oder VueJS\n    Du kennst dich mit CSS-Präprozessoren und CSS-Architekturen aus\n    Du bist vertraut mit der Cross-Browser-Problematik\n    Du bist sicher im Umgang mit modernen Buildtools (z. B. Fuse-Box, Rollup, Webpack) und hast Kenntnisse aktueller Testing Frameworks (z. B. Mocha, Jasmine oder Jest)\n    Du kennst die agilen Werte und arbeitest gerne in agilen Teams\n    User Experience und Responsive Design interessieren dich\n    Beratung liegt dir und du kannst dir vorstellen, unsere Kunden technologisch oder/und methodisch zu schulen. Dafür bringst du eine hohe Kommunikationsfähigkeit und verhandlungssichere Deutschkenntnisse mit",
+		"skillList": "typescript, angular, react, vue, fusebox, rollup,webpack, mocha, jasmine, jest, ux, responsive",
+		"publicationDate": "2022-12-07"
+	},
+	{
+		"id": 6,
+		"title": "Praktikant IT-Beratung Public Sector",
+		"company": "PwC",
+		"url": "https://www.stepstone.de/stellenangebote--Praktikant-Werkstudent-IT-Beratung-Public-Sector-w-m-d-Berlin-Duesseldorf-Frankfurt-a-M-Muenchen-Saarbruecken-Stuttgart-PwC--7857961-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0",
+		"description": "Durch relevante Studienschwerpunkte oder praktische Erfahrungen hast du Grundkenntnisse in einem der folgenden Themen:\n\n- klassische Softwareentwicklung (z. B. C/C++, Java, C#),\n\n- Webentwicklung (z.B. JavaScript, Angular, React),\n\n- (Web-) Designpattern (MVC, MVVC),\n\n- Datenhaltung (z.B. SQL, noSQL, XML, JSON),\n\n- Cloud (Azure, Google, AWS, SAP),\n\n- Konzeption von IT-Architekturen/ IT-Infrastrukturen.",
+		"skillList": "c, cplusplus, java, csharp, angular, react, mvc, mvvm, azure, aws, gcp, nosql, sql, xml, json, sap",
+		"publicationDate": "2022-12-08"
+	},
+	{
+		"id": 7,
+		"title": "Frontend Entwickler React Typescript",
+		"company": "ibi systems GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Frontend-Entwickler-React-Typescript-m-w-d-Regensburg-ibi-systems-GmbH--8924608-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_1_0",
+		"description": "Deine Aufgaben\n\n    Technische Konzeption, Design und Implementierung neuer Features\n    Anpassung und kontinuierliche Optimierung bestehender Features\n    Agile Entwicklung mit Scrum und gitflow (inkl. Pull Requests)\n    Keine Scheu vor Frontend-nahen Entwicklungstätigkeiten im Backend\n    Idealerweise Umsetzung unserer UX-Designs\n\nUnser Stack\n\n    Architektur: Domain Driven Design, Microservices, Event-driven\n    Backend: .NET 6 (C#), Entity Framework Core, Hangfire, RabbitMQ\n    Frontend: React, Material UI (MUI), GraphQL (Apollo), Typescript sowie ASP.NET Web API (REST API)\n    Hosting: Docker, Kubernetes, Azure, OpenShift\n    Unit Tests mit NUnit\n    Moderne Entwicklungstools wie JetBrains Rider/WebStorm, Git und DevOps Server\n",
+		"skillList": "agile, scrum, gitflow, ux, domaindrivendesign, microservices, dotnet, entityframework, hangfire, rabbitmq, react, mui, graphql, apollo, typescript, aspnet, rest, docker, kubernetes, azure, openshift, nunit, rider, webstorm, devopserver, vue, angular",
+		"publicationDate": "2022-12-12"
+	},
+	{
+		"id": 8,
+		"title": "Fullstack developer React framework",
+		"company": "ALTEN GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Fullstack-developer-m-f-d-React-framework-Munich-ALTEN-GmbH--8995148-inline.html?rltr=15_15_25_seorl_m_0_0_0_0_1_0",
+		"description": "\n    Successfully completed studies in computer science, electrical engineering  or similar\n    Relevant years of work experience as a Full Stack Engineer and have built and operated an application in production in the past, preferably in the area of e-commerce\n    Developing applications with React, modern JavaScript standards (ES6/ES7), HTML5 and CSS\n    Practical experiences with NoSQL data bases like MongoDB\n    Comfortable with building, deploying and operating your application as micro services in a cloud infrastructure\n    Very good knowledge of English\n",
+		"skillList": "react, mongodb, microservices, cloud",
+		"publicationDate": "2022-12-13"
+	},
+	{
+		"id": 9,
+		"title": "Junior-Softwareentwickler:in",
+		"company": "Qnips GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Junior-Softwareentwickler-in-Hannover-Qnips-GmbH--7783712-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_1_0",
+		"description": "Du bringst viel Interesse an modernen IT-Systemen, neuen Frameworks & Programmiersprachen mit \nDu bist fit in der Programmierung und fühlst dich in einem der nachfolgenden Bereiche wohl. Wir finden den passenden Tech-Stack für dich! \n\n    Android: Kotlin und Jetpack Compose \n     iOS: Swift und Swift UI \n     Backend Development: C#, .NET, Google Firebase, Cloud functions \n     Hybride App Development: Flutter mit Dart \n     Web Development: Angular, TypeScript-Framworks\n\nIdealerweise besitzt Du Kenntnisse im Umgang mit (RESTful-) Webservices sowie Git als Versionsverwaltung.  \nDu hast ein großes Herz für gute User Experience, durchdachtes Interface Design oder state-of-the-art API-Design ",
+		"skillList": "kotlin, jetpackcompose, swift, csharp, dotnet, firebase, flutter, dart, angular, rest, git",
+		"publicationDate": "2022-12-14"
+	},
+	{
+		"id": 10,
+		"title": "Backend Developer Node/Typescript",
+		"company": "Interhyp Gruppe",
+		"url": "https://www.stepstone.de/stellenangebote--Backend-Developer-Typescript-Node-JS-m-w-d-Muenchen-Interhyp-Gruppe--9006012-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0",
+		"description": " wir dich unbedingt brauchen, da du unsere digitalen Produkte entwickelst – mit Technologien wie z. B. Typescript, Node.JS, Express, MongoDB, Rest.\n\n… unsere Product Owner voll und ganz auf dich als kompetente*n Ansprechpartner*in zählen.\n\n… wir nicht genug von deinem Feedback zu den User Storys kriegen können und du uns dabei hilfst, ein herausragendes Produkt für unsere Kund*innen zu schaffen.\n\n… du immer und immer wieder deine eigenen Ideen einbringst, um damit Qualität, technische Verbesserungen sowie neue Features voranzutreiben.\nUnd du passt perfekt zu uns, denn...\n\n… du hast mindestens zwei Jahre relevante Erfahrung in der Arbeit mit schnell skalierenden und komplexen Systemen.\n\n… über umfassende Erfahrung mit Typescript, Node.JS verfügst du bereits und besitzt idealerweise schon praktische Erfahrung mit Express, MongoDB, Rest.\n\n… als Teamplayer schlägt dein Herz dafür, Feedback zu erhalten und zu geben, um sowohl persönlich als auch als Software Engineer (m/w/d) zu wachsen.\n\n… du handelst lösungsorientiert, übernimmst aktiv Verantwortung und stellst dich gern neuen Herausforderungen.",
+		"skillList": "typescript, node, express, mongodb, rest",
+		"publicationDate": "2022-12-14"
+	},
+	{
+		"id": 11,
+		"title": "Full Stack Developer",
+		"company": "ASAMBEAUTY GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Full-Stack-Developer-m-w-d-Unterfoehring-Muenchen-ASAMBEAUTY-GmbH--8963596-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_1_0",
+		"description": "    Abgeschlossene Ausbildung als IT-Systemelektroniker, Fachinformatiker oder eine vergleichbare Ausbildung\n    3-5 Jahre Erfahrung als Full Stack-Entwickler oder eine ähnliche Funktion\n    Erfahrung in der Arbeit mit Shopsystemen, hauptsächlich Magento 2\n    Erfahrung in der Entwicklung von Desktop- und mobilen Anwendungen\n    Kenntnisse mehrerer Front-End-Sprachen und Bibliotheken (z.B. HTML/CSS, JavaScript, XML, jQuery)\n    Kenntnisse in mehreren Back-End-Sprachen, hauptsächlich PHP und JavaScript-Frameworks (z.B. Angular, React, Node.js)\n    Vertrauter Umgang mit Datenbanken (z.B. MySQL), Web-Servern (z.B. Apache, NGINX) und UI/UX-Design\n    Vertrauter Umgang mit Cloud-Hosting (AWS)\n    Erste Erfahrungen in anderen Bereichen von eCommerce-Plattformen wie Zahlung, Produktdaten, Auftragsverwaltung, Webanalyse, Inhaltsverwaltung, Werbung, Suche usw.\n    Erste Erfahrungen mit dem Lebenszyklus in einer agilen / Scrum-Umgebung",
+		"skillList": "magento, xml, jquery, php, angular, react, node, mysql, apache, nginx, ux, aws, scrum",
+		"publicationDate": "2022-12-14"
+	},
+	{
+		"id": 12,
+		"title": "Machine Learning Engineer",
+		"company": "HDP-Gesellschaft für ganzheitliche Datenverarbeitung mbH",
+		"url": "https://www.stepstone.de/stellenangebote--Machine-Learning-Engineer-m-w-d-Alzey-HDP-Gesellschaft-fuer-ganzheitliche-Datenverarbeitung-mbH--8076473-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_0_0",
+		"description": "\n    Die Erfüllung der Aufgaben setzt ein abgeschlossenes Studium im MINT-Bereich voraus.\n    Des Weiteren werden Kenntnisse im Bereich Machine Learning sowie fortgeschrittene Programmierkenntnisse in einer objektorientierten Sprache (bevorzugt Python) vorausgesetzt.\n    Erfahrungen mit einschlägigen Frameworks und Werkzeugen zu Machine Learning und dem Python Scientific Stack sind wünschenswert (z.B. scikit-learn, TensorFlow, PyTorch).\n    Idealerweise verfügen Sie über Erfahrungen im Bereich Software Engineering und Testen.\n    Ein hohes Qualitätsbewusstsein, eine ausgeprägte Innvoations- und Lernbereitschaft sowie Eigeninitiative zeichnet Sie und Ihren Arbeitsstil aus.\n    Als zielorientierte Persönlichkeit gehen Sie analytisch vor und lösen Problemstellungen strukturiert.\n    Sie sind ein engagierter Teamplayer, bringen sich gerne ein und sind offen für Neues.\n",
+		"skillList": "mint, machinelearning, python, oop, pythonsciencestack, scikitlearn, tensorflow, pytorch, testing",
+		"publicationDate": "2022-12-15"
+	},
+	{
+		"id": 13,
+		"title": "Entwickler React / Cloud",
+		"company": "itdesign GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Remote-Software-Developer-Entwickler-React-Cloud-m-w-d-Tuebingen-bei-Stuttgart-Zwickau-Mainz-itdesign-GmbH--8056768-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0",
+		"description": "Das tun wir\n\n    Im Scrum Team konzipieren wir die Architektur und implementieren Features\n    Durch Code Review und Remote Pair Programming stellen wir die Code-Qualität sicher\n    Wir deployen die Microservices des Teams\n    Wir tauschen uns täglich über Herausforderungen und technische Trends über Collaborations Tools aus und lernen voneinander und miteinander\n\nDas bist du\n\n    In den Bereichen Softwarearchitektur, Web-Applikationen oder Server-Client-Systeme fühlst du dich wohl\n    Moderne JavaScript Frameworks, z.B. React, Vue, Angular oder Backend-Technologien wie Spring Boot sind deine Leidenschaft\n    Du brauchst beim Programmieren Ruhe und kannst dich zu Hause am besten konzentrieren\n    Du willst auch remote Teil eines unschlagbaren Teams sein\n\n",
+		"skillList": "scrum, codereview, pairprogramming, microservices, react, vue, angular, springboot",
+		"publicationDate": "2022-12-16"
+	},
+	{
+		"id": 14,
+		"title": "Full Stack Developer",
+		"company": "klarsolar GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Full-Stack-Developer-m-w-d-Heidelberg-klarsolar-GmbH--8864165-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0",
+		"description": "Deine Aufgaben:\n\n    Als aktiver Teil des Entwicklungsteams arbeitest du eigenverantwortlich an Softwarelösungen\n    Technische Best Practices wie Serverless, CQRS, Microservices und Micro Frontends kennst du wie deine Westentasche und setzt mit ihnen agile Anforderungsbeschreibungen aus User Stories und Use Cases in geeignete Softwarekomponenten um\n    Deine Aufgaben erstrecken sich über den gesamten Stack einer Applikation (Angular, GrapQL, NestJS)\n    Zur automatisierten Auslieferung von Software-Artefakten, setzt du Test-Cases in Test-Code um, damit eine Ergebnissicherung der Anwendung für das Team gewährleistet ist\n\nDein Profil:\n\n    Du bringst Erfahrungen in Frontend und Backend-Entwicklung mit Javascript, HTML, Node.js, Angular, GraphQL, Tailwind mit\n    In Projektteams findest du dich schnell zurecht, da du gut organisiert bist und das interdisziplinäre Arbeiten schätzt\n    Du bist erfahren in min. einem CI/CD Werkzeug (bspw. Git Hub Actions)\n    Du hast Kenntnisse in einem IaaS-Anbieter (z.B. Azure, AWS, Google..)\n    Du hast Kenntnisse der gängigen Cloud-Anwendungsplattformen (z.B. Docker,Kubernetes)\n    Du hast ein agiles Mindset, bist kollegial und ergebnisorientiert\n",
+		"skillList": "serverless, cqrs, microservices, microfrontends, angular, graphql, nestjs, node, tailwind, cicd, githubactions, azure, aws, gcp, docker, kubernetes, agile",
+		"publicationDate": "2022-12-17"
+	},
+	{
+		"id": 15,
+		"title": "Frontend Entwickler",
+		"company": "Bertelsmann",
+		"url": "https://www.get-in-it.de/jobsuche/p204395?filter[thematic_priority]=5&filter[city][radius]=25&filter[city][city][0][lon]=13.41053&filter[city][city][0][lat]=52.52437&start=0&limit=39&ref=Jobsuche",
+		"description": "Wir suchen Dich, denn Du bist motiviert und engagiert und hast Lust gemeinsam mit uns unsere neue Lernplattform stetig weiterzuentwickeln und zu optimieren.\n\nZudem bringst Du Folgendes mit:\n\n    Ein abgeschlossenes IT-Studium (Informatik, Wirtschaftsinformatik), eine Ausbildung als Fachinformatiker (m/w/d) oder eine vergleichbare Qualifikation\n    Mindestens drei Jahre Berufserfahrung in der Umsetzung von Web-Anwendungen\n    Fundierte Kenntnisse in ReactJS, TailwindCSS oder ein anderes CSS-Framework\n    Erfahrung mit Jest, CI/CD, Docker oder Nginx sind ein Plus\n    Eine strukturierte, selbstständige und zielorientierte Arbeitsweise\n    Verhandlungssichere Deutsch- und Englischkenntnisse",
+		"skillList": "react, tailwind, jest, cicd, docker, nginx",
+		"publicationDate": "2022-12-17"
+	},
+	{
+		"id": 16,
+		"title": "Frontend Developer",
+		"company": "modis",
+		"url": "https://www.get-in-it.de/jobsuche/p207871?start=0&limit=39&ref=Jobsuche",
+		"description": "    Sie bringen ein abgeschlossenes Studium oder eine Ausbildung im Bereich der Webentwicklung mit\n    Kenntnisse in HTML, CSS, JavaScript und React zeichnen Sie aus\n    Sie verfügen über Erfahrungen mit der Anbindung von Micro-bzw. Backend-Services (unter anderem REST)\n    Auch in den Bereichen Node.js-Ökosystem und moderne Build-Prozesse kennen Sie sich aus\n    Zudem besitzen Sie Kenntnisse im Umgang mit TypeScript, Fluent UI, Docker und Java\n    Abgerundet wird Ihr Profil dadurch, dass Sie ein Teamplayer sind und sich mit Engagement im Team einbringen",
+		"skillList": "react, rest, node, typescript, fluentui, docker, java",
+		"publicationDate": "2022-12-17"
+	},
+	{
+		"id": 17,
+		"title": "Backend Developer TypeScript",
+		"company": "snapADDY GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Backend-Developer-TypeScript-NestJS-PostgreSQL-m-w-d-97070-Wuerzburg-snapADDY-GmbH--8962220-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0",
+		"description": "Your profile\n\n    Passion for software development in the area of APIs, Databases and Backend\n    Collaborating with other developers and departments is enjoyable for you\n    Experience with modern JavaScript and TypeScript or willingness to learn\n    Structured, analytical, and independent way of working\n    An open and friendly personality who enjoys working with colleagues as part of a team\n\nOur technologies:\n\n    Development in JavaScript and TypeScript\n    Backend: NodeJS, NestJS, TypeORM, PostgreSQL, Redis\n    Tools: GitHub with ZenHub, Slack, Github Actions, Ionic AppFlow\n    Hosting: Amazon Web Services (AWS), Lambda Functions, Kubernetes\n\nNice-to-have\n\n    Experience with Amazon Web Services (AWS)\n    Knowledge about APIs and Integrations of B2B applications like Salesforce or Microsoft Dynamics\n",
+		"skillList": "rest, typescript, node, nestjs, typeorm, postgres, redis, zenhub, githubactions, ionicappflow, aws, awslambda, kubernetes, salesforce, microsoftdynamics",
+		"publicationDate": "2022-12-17"
+	},
+	{
+		"id": 18,
+		"title": "Full Stack Webentwickler",
+		"company": "Alevino",
+		"url": "https://www.stepstone.de/stellenangebote--Full-Stack-Webentwickler-m-w-d-bundesweit-Alevino--8954447-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_1_0",
+		"description": "Du bist ein Vollblut-Techie (m/w/d) mit einiger Erfahrung im Bereich Webentwicklung. Ideal sind\n\n    Praktische Erfahrungen im Bereich der Frontend-Entwicklung mit modernen Webtechnologien (HTML, CSS, Javascript), SPA-Frameworks (insbesondere React.js) und Progressive Web Apps (PWAs).\n    Kenntnisse der Backend-Entwicklung in Javascript bzw. Typescript mit Node.js (z. B. mit Nest.js) und gängigen Datenbanken (insbesondere PostgreSQL und Mongo DB)\n    Vertrautheit mit einschlägigen Konzepten wie Microservice-Architekturen und REST-Schnittstellen\n    Sicherer Umgang in der Versionsverwaltung mit Git und Erfahrungen im Bereich CI/CD mit Github oder Gitlab\n    Kenntnisse von Containerisierung und dem Betrieb von Anwendungen im Cloud-Umfeld (z. B. AWS), gerne auch mit Serverless-Computing-Ansätzen.\n    Bereitschaft Betriebsverantwortung im Sinne des DevOps zu übernehmen – „You build it, you run it“",
+		"skillList": "react, pwa, typescript, node, nestjs, postgres, mongodb, rest, cicd, github, gitlab, aws, serverless, devops",
+		"publicationDate": "2022-12-17"
+	},
+	{
+		"id": 19,
+		"title": "Frontend Developer",
+		"company": "toom Baumarkt GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Frontend-Developer-Cross-Channel-E-Commerce-m-w-d-51149-Koeln-toom-Baumarkt-GmbH-Ein-Unternehmen-der-REWE-Group--9028936-inline.html?rltr=2_2_25_seorl_m_1_0_0_0_1_0",
+		"description": "Technologien: \n\nJavaScript | TypeScript | HTML | CSS | React | REST/GraphQL | Kubernetes | Gitlab CI/CD\n\nDeine Aufgaben: \n\n    Dein Fokus liegt auf der Entwicklung und Implementierung moderner und nutzerzentrierter Webanwendungen\n    Für deine Entwicklung nutzt du unsere Pattern Library basierend auf Atomic Design \n    Unserer Softwarearchitektur gestaltest du aktiv mit \n    Für die Einhaltung von Architekturvorgaben, die Wartbarkeit und Wiederverwendbarkeit der Komponenten sowie die Qualitätssicherungsmaßnahmen übernimmst du die Verantwortung \n    Neue Produktanforderungen werden von Dir analysiert und in unsere Gesamtarchitektur integriert \n    Du blickst über den Tellerrand und bringst neue Ideen und Technologien aus dem Bereich Webentwicklung ein \n    Du beteiligst Dich regelmäßig und aktiv daran, die Zusammenarbeit in unserem agilen Arbeitsumfeld zu verbessern \n\nDein Profil\n\nDas bringst du mit:\n\n    Leidenschaft für nachhaltige Software-Entwicklung und Clean-Code \n    Mehrjährige Berufserfahrung in objektorientierter Entwicklung von Webanwendungen \n    Idealerweise ein Studium der (angewandten) Informatik bzw. Wirtschaftsinformatik oder ein anderer überzeugender Werdegang \n    Fundierte Kenntnisse in JavaScript und/oder TypeScript, HTML und CSS  \n    Praktische Erfahrung mit JavaScript Frameworks/ Microfrontend-Architekturen wie VueJS, React oder Angular \n    Kenntnisse im Umgang und Aufsetzen automatisierter Tests (z.B. Cypress) \n    Expertise in der Schnittstellendefinition (REST, OpenAPI, Swagger, ...) \n    Routine im Umgang mit Versionsverwaltungssystemen und Build-Pipelines (Git, Gitlab) \n    Freude an agiler Zusammenarbeit \n    Sehr gute Deutschkenntnisse und gute Englischkenntnisse \n",
+		"skillList": "typescript, react, rest, graphql, kubernetes, gitlab, cicd, cleancode, oop, vue, angular, cypress, openapi, swagger, git, agile",
+		"publicationDate": "2022-12-18"
+	},
+	{
+		"id": 20,
+		"title": "React Developer",
+		"company": "NETCONOMY GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--React-Developer-m-f-d-Dortmund-Berlin-NETCONOMY-GmbH--8377095-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0",
+		"description": "Your Job\n\n    You contribute in developing high performance web solutions within our agile and cross-functional teams\n    You work across the entire web stack with modern web frameworks such as React, Redux, GraphQL, Node.js, SASS and TypeScript\n    You build experiences for customers by optimizing the usability and UX\n    You effectively support with browser and performance optimization\n    You successfully implement responsive designs and ensure cross-browser compatibility\n    You proactively assist with the evaluation and introduction of innovative frontend technologies\n\nYour Skills\n\n    You have at least 3 years of experience working as a Frontend Developer or in a similar role\n    You have experience / relevant background in web development with Javascript/ES6 (React)\n    You are familiar with a variety of web browsers and their compatibility issues\n    You know how to use modern development tools, such as JIRA, Confluence, Git, Jenkins\n    You have practical experience with accessibility, performance analysis and usability\n    Your knowledge of concepts like Server-Side Rendering and Progressive Web Apps is solid\n    You have excellent English skills (B2/C1), German skills are beneficial\n\n",
+		"skillList": "react, redux, graphql, node, sass, typescript, ux, jira, confluence, git, jenkins, ssr, pwa",
+		"publicationDate": "2022-12-18"
+	},
+	{
+		"id": 21,
+		"title": "TypeScript Developer",
+		"company": "meetergo GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--TypeScript-Developer-m-w-d-Koeln-meetergo-GmbH--8168170-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_1_0",
+		"description": "Bei uns kannst Du Deine großartigen Tech Skills voll zum Einsatz bringen. Sag uns, was Du drauf hast und wir finden gemeinsam mit Dir Deinen Best-fitting-place in unserem agilen Entwickler-Team. Mindestens mit 2 bis 3 der folgenden Technologien solltest Du Dich richtig gut auskennen:\n\n    Modernes Typescript\n    React / NextJS / Remix / Chakra UI / Material UI (Frontend)\n    React Native (Native)\n    NestJS / TypeORM / Postgres (Backend-API)\n    LiveKit (P2P-Videoplattform)\n    WebSockets / Socket.io / Redis / LiveKit SDK (Backend-Realtime-Comms)\n    AWS / Terraform / Docker / Kubernetes (Infrastruktur)\n    Nx (Monorepo)\n    Webpack / Babel / Nx (Build Tools)\n    Gitlab/Circle CI (CI)\n    Jest / React Testing Library / Testcafe / Cypress / Supertest (Testing)\n",
+		"skillList": "react, nextjs, remix, typescript, chakraui, mui, reactnative, nestjs, typeorm, postgres, livekit, socketio, redis, aws, terraform, docker, kubernetes, nx, webpack, babel, gitlab, circleci, jest, reacttestinglibrary, testcafe, cypress, supertest",
+		"publicationDate": "2022-12-19"
+	},
+	{
+		"id": 22,
+		"title": "Softwareentwickler Frontend DevOps",
+		"company": "Deutsche Bahn",
+		"url": "https://www.get-in-it.de/jobsuche/p174488?filter[thematic_priority]=5&filter[city][radius]=25&filter[city][city][0][lon]=13.41053&filter[city][city][0][lat]=52.52437&start=0&limit=39&ref=Jobsuche",
+		"description": "Du hast ein (Fach-)Hochschulstudium in (Wirtschafts-)Informatik oder einer vergleichbaren Fachrichtung abgeschlossen oder verfügst über eine Ausbildung im IT-Bereich\n    Du bist Experte in der Entwicklung mit JavaScript/TypeScript und React und hast Erfahrung im Umgang mit Komponentenbibliotheken wie Chakra UI\n    Automatisierte Tests, UX und Accessibility sind für dich unverzichtbar neue Technologien setzt du im Sinne der Kundenorientierung zum Wohle der Anwendenden ein\n    Du hast Lust darauf, dein Know how in für ein DevOps-Team wichtigen Themenfeldern wie Continuous Integration und Continuous Delivery auf- und auszubauen\n    Spaß an neuen Technologien, ein hohes Maß an Wissbegierde und Lernbereitschaft zeichnen dich aus und du sprichst fließend Deutsch",
+		"skillList": "typescript, react, chakraui, testing, ux, devops, cicd",
+		"publicationDate": "2022-12-20"
+	},
+	{
+		"id": 23,
+		"title": "Frontend-Entwickler",
+		"company": "dotSource",
+		"url": "https://www.get-in-it.de/jobsuche/p13958?filter[thematic_priority]=5&filter[city][radius]=25&filter[city][city][0][lon]=13.41053&filter[city][city][0][lat]=52.52437&start=0&limit=39&ref=Jobsuche",
+		"description": "Erfolgreiches Informatikstudium oder eine vergleichbare technische Qualifikation/Ausbildung\n    Professioneller Umgang mit Technologien, wie bspw. HTML5, CSS3 (SASS, LESS), JavaScript und Frameworks wie AngularJS, vueJS oder React\n    Gute Kenntnisse in den Bereichen Browser-Kompatibilität, Responsive Webdesign und CMS\n    Vorteilsweise Kenntnisse in User-Experience (UX) und Webdesign\n    Grundkenntnisse in Java und/oder PHP sowie in verschiedenen Template-Engines",
+		"skillList": "sass, angular, vue, react, responsive, ux, java, php",
+		"publicationDate": "2022-12-21"
+	},
+	{
+		"id": 24,
+		"title": "React Frontend Developer",
+		"company": "proWIN Winter GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--React-Frontend-Developer-m-w-d-Illingen-proWIN-Winter-GmbH--9044500-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_1_0",
+		"description": "Ihre Aufgaben\n\n    Sie planen und entwickeln Frontend Applikationen im agilen Projektumfeld unter Berücksichtigung von Best Practices und unseren Sicherheits- und Qualitätsanforderungen\n    Sie entwickeln mit Hilfe von Designrichtlinien Web- und Mobile- Applikationen eigenständig und im Team\n    Sie arbeiten mit aktuellen Frameworks und Konzepten (REST APIs, Micro Services, Responsive Webdesign, Git, npm)\n    Sie stehen im engen Austausch mit unseren UX-Designern und Product-Ownern und stimmen\n    fachliche und technische Komponenten der Architektur ab\n    Sie haben aktuelle Trends stets im Blick und setzen diese in Webtechnologien und Softwaredesigns um\n\nIhr Profil\n\n    Sie verfügen über ein Studium oder eine abgeschlossene Berufsausbildung im IT-Bereich\n    Bestenfalls besitzen Sie bereits Kenntnisse in JavaScript, Typescript, Node.js, HTML oder Sass\n    Erste Erfahrungen in der Entwicklung von Frontendsystemen (React, Piral, Material UI) sowie\n    mit Continuous Integration (GitLab CI) im Umfeld von Progressive Web Apps sind von Vorteil\n    Sie verfügen über sehr gute Deutsch- und Englischkenntnisse in Wort und Schrift\n    Sie sind mit Herz bei der Arbeit, sind aufgeschlossen, teamfähig und arbeiten ziel- und ergebnisorientiert\n\n",
+		"skillList": "react, piral, typescript, pwa, sass, mui, rest, microservices, responsive, git, node, cicd",
+		"publicationDate": "2022-12-22"
+	},
+	{
+		"id": 25,
+		"title": "Webentwickler",
+		"company": "WRS Energie + Druckluft GmbH",
+		"url": "https://www.linkedin.com/jobs/view/3407485504/?alternateChannel=search&refId=UEPWpoXqAcAJh%2BqtdHwMmQ%3D%3D&trackingId=CyV1rkRmqCxXbaAEZWA5JQ%3D%3D",
+		"description": "Was dich erwartet?\n\n\n    Du entwickelst überwiegend in Python\n    Du programmierst REST API Schnittstellen von und zu anderen Systemen\n    Du bist fachlicher Entscheider/in für softwaretechnische Themen\n    Du entwickelst unsere Plattformlösung weiter (Fokus Backend)\n    Du übernimmst Aufbau und Umsetzung einer skalierbaren, cloudbasierten Infrastruktur (Hetzner Cloud)\n    Du entwickelst und implementierst KI-basierte Anomalieerkennungen sowie integrierst du automatisierte Reportings\n    Du entwickelst und integrierst verschiedene MicroServices\n\n\nWas du mitbringen solltest?\n\n\n    Du hast ein abgeschlossenes Studium im Bereich Informatik oder abgeschlossene Ausbildung mit Informatikbezug\n    Du besitzt ein ausgeprägtes Interesse an modernen Technologien und künstlicher Intelligenz\n    Du verfügst über sehr gute Kenntnisse in Python sowie gute Kenntnisse mit Docker-Containerisierung und Datenbankmanagementsystemen (Influx DB, MongoDB)\n    Du hast gute Kenntnisse im Bereich REST-Schnittstellen & JSON\n    Du besitzt Erfahrung in Cloud Umgebungen wünschenswert (AWS, Azure oder Hetzner Cloud)\n    Du verfügst über sehr gute Deutschkenntnisse und idealerweise Kenntnisse in JavaScript, React oder Angular",
+		"skillList": "react, angular, python, aws, azure, hetzner, rest, json, influxdb, mongodb, docker, ai",
+		"publicationDate": "2022-12-23"
+	},
+	{
+		"id": 26,
+		"title": "React Entwickler",
+		"company": "WeMatch",
+		"url": "https://www.xing.com/jobs/berlin-react-entwickler-94517585?ijt=jb_21&paging_context=similar_postings",
+		"description": "Aufgaben\n\n    Sie entwickeln Cyber Security-Lösungen und Webanwendungen im Frontend, um den Usern ein bestmögliches Erlebnis zu ermöglichen\n\n    Dabei werden folgende Technologien eingesetzt: Javascript, Typescript, React.js, React Hooks, React Functional Components\n\n    Usability, Darstellung und Performance halten Sie stets im Blick\n\n    Das Schreiben von Clean Code und das Durchführen von automatisierten Software Tests (Jest) gehört ebenfalls zu Ihrem Daily Business\n\nProfil\n\n    Abgeschlossenes Studium der (Wirtschafts-)Informatik oder vergleichbare Qualifikation sowie mindestens vier Jahre Berufserfahrung\n\n    Sehr gute Kenntnisse bei der Anwendung von gängigen Web-Technologien wie HTML5, CSS/SCSS, JavaScript und TypeScript\n\n    Sehr guter Kenntnisse in der Entwicklung von Single-Page-Webapplikationen mit React\n\n    Erfahrungen mit anderen JavaScript-Frameworks von Vorteil (z.B. Angular, Vue, Polymer, Stencil)\n\n    Erfahrung mit gängigen Werkzeugen der Webentwicklung (z.B. Jest, Cypress, Storybook, Nx, Vite)\n",
+		"skillList": "react, typescript, reacthooks, jest, sass, angular, vue, polymer, stencil, cypress, storybook, nx, vite",
+		"publicationDate": "2022-12-24"
+	},
+	{
+		"id": 27,
+		"title": "Fullstack Developer",
+		"company": "PACE Telematics GmbH",
+		"url": "https://www.xing.com/jobs/karlsruhe-fullstack-developer-javascript-typescript-node-js-react-95148608?paging_context=search&search_query%5Bkeywords%5D=react%20typescript&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Aufgaben\n\n    Du bringst frische Ideen und Learnings in das Team ein und entwickelst mit deinen Kolleg:innen innovative, interaktive Anwendungen in einem modernen TypeScript Stack (React, node.js).\n    Du entwickelst Frontend-Applikationen die viele tausende Kunden am Tag nutzen. Auch kleinere Arbeiten an dem node.js Backend schrecken Dich nicht ab.\n    Gemeinsam mit dem Backend-Team arbeitest Du an der Definition von APIs.\n    Du bist sowohl in die technische Konzeption neuer Features als auch in die Gestaltung langfristiger Strategien eingebunden und kannst eigene Ideen einbringen.\n    Du führst A/B-Tests durch und wertest diese aus um zu analysieren, wie unsere Kunden das Frontend nutzen und somit potenzielle Verbesserungen zu finden.\n\nQualifikation\n\n    Du hast mehrjährige Erfahrungen mit den Programmiersprachen TypeScript / node.js.\n    Dein Fokus liegt auf sicheren, stabilen und performanten Javascript Anwendungen.\n    Moderne Web-Frameworks wie React.js, Vue.js oder Angular.js sind für Dich nichts Neues.\n    Versionskontrolle mit Git liegt Dir am Herzen.\n    Du überzeugst außerdem durch Teamfähigkeit, eigenständiges sowie zielgerichtetes Arbeiten und verfügst über gute Kommunikationsfähigkeiten.\n    Sehr gute Deutsch- sowie gute Englischkenntnisse und eine gute Portion Humor runden Dein Profil ab.\n",
+		"skillList": "react, typescript, node, rest, abtests, vue, angular, git",
+		"publicationDate": "2022-12-25"
+	},
+	{
+		"id": 28,
+		"title": "TypeScript Entwickler",
+		"company": "Projektron GmbH",
+		"url": "https://www.xing.com/jobs/berlin-typescript-entwickler-94974036?paging_context=search&search_query%5Bkeywords%5D=typescript&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Aufgaben\n\nAls Entwickler in einem unserer drei exzellenten Teams arbeiten Sie nach Scrum an der Weiterentwicklung von Projektron BCS.\n\nDabei erarbeiten Sie Umsetzungskonzepte für Erweiterungen und Änderungen in BCS und setzen diese anschließend in einem von aktuell drei Scrum-Teams um.\n\nAuch uns passieren einmal Fehler, die wir im Team beheben und durch eine hohe Testabdeckung zukünftig verhindern können.\n\nDas Feedback unserer Anwender ist uns sehr wichtig, weshalb Sie unseren Second-Level Support regelmäßig bei der Lösungssuche von kundenspezifischen Wünschen sowie bei der Konfiguration von BCS oder der Anbindung externer Systeme unterstützen.\n\nWir möchten insbesondere Frauen dazu ermutigen, sich bei uns zu bewerben.\nQualifikation\n\n✔ Sehr gut abgeschlossenes Informatik-Studium oder ein gleichwertiges Studium aus dem MINT-Bereich\n\n✔ Hervorragende Programmierkenntnisse in TypeScript\n\n✔ 2 Jahre Berufserfahrung in einem ähnlichen Aufgabenumfeld\n\n✔ Kenntnisse in mindestens zwei der folgenden Bereiche:\n\n    Webtechnologien (HTML5, CSS, JavaScript, etc.)\n    Progressive Web Apps (PWA)\n    Java\n    Automatisiertes Testen\n    Web Services (REST)\n    Buildtools wie Jenkins, Gradle, Webpack\n    Frameworks wie React, d3.js\n    Domain Driven Design\n\n✔ Gute Deutschkenntnisse (B1 oder höher)",
+		"skillList": "typescript, pwa, java, rest, jenkins, gradle, webpack, react, d3, mint, domaindrivendesign, testing, scrum, projektronbcs",
+		"publicationDate": "2022-12-26"
+	},
+	{
+		"id": 29,
+		"title": "Developer PHP/TypeScript/React",
+		"company": "CrewBrain",
+		"url": "https://www.stepstone.de/stellenangebote--Software-Developer-PHP-JavaScript-TypeScript-React-m-w-d-in-Voll-oder-Teilzeit-Baden-Baden-CrewBrain-GmbH--9008747-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_1_0",
+		"description": "Deine Aufgaben:\n\n    Du bist verantwortliche für die Wartung und Weiterentwicklung unserer Softwarelösung \"CrewBrain\"\n    Du entwickelst unsere Software im Backend mit PHP, MySQL und JavaScript und / oder im Frontend mit Java- / TypeScript, Svelte und React Native\n    Als Mitglied eines agilen Teams bist du nicht nur an der Entwicklung, sondern auch an der Konzeption beteiligt\n\nDein Profil:\n\n    Du hast ein abgeschlossenes Studium der (Wirtschafts-)Informatik oder vergleichbare Ausbildung\n    Du hast sehr gute Kenntnisse in PHP, JavaScript, und MySQL und / oder in ReactNative und JavaScript / TypeScript\n    Du verfügst über Lösungs- und Kundenorientiertes Denken und bist in der Lage, einfache und verständliche Benutzeroberflächen zu konzipieren und umzusetzen\n    Optional verfügst du über Kenntnisse in GIT, nodeJS, Docker, Kubernetes, Amazon Web Services oder Microsoft Azure\n    Du hast Lust und Interesse daran, in einem Startup richtig etwas zu bewegen\n",
+		"skillList": "php, mysql, typescript, svelte, reactnative, git, node, docker, kubernetes, aws, azure",
+		"publicationDate": "2022-12-27"
+	},
+	{
+		"id": 30,
+		"title": "Anwendungsentwickler",
+		"company": "Statistisches Landesamt Baden-Württemberg",
+		"url": "https://www.stepstone.de/stellenangebote--Anwendungsentwickler-w-m-d-Stuttgart-Statistisches-Landesamt-Baden-Wuerttemberg--8983435-inline.html?rltr=20_20_25_seorl_m_0_0_0_0_0_0",
+		"description": "Die Amtliche Statistik ist mit ihrer soliden rechtlichen Basis, ihren Qualitätsstandards und ihren auf wissenschaftlichen Methoden beruhenden Werkzeugen eine fundierte Basis für Entscheidungen in vielen Lebensbereichen. Neue Methoden in der Informationstechnologie führen dazu, dass sich die amtliche Statistik in einer Veränderung und Weiterentwicklung befindet.\n\nAutomatisierung informationstechnischer Betriebsabläufe, ein hoher Standard der Informations­sicherheit und der Umgang mit großen Datenmengen z. B. mittels Methoden des Machine Learnings sind hier besonders zu nennen.\n\nDiesen Entwicklungen trägt das Statistische Landesamt mit einer im Aufbau befindlichen neuen IT-Abteilung Rechnung. Wir suchen Kolleginnen und Kollegen, die diese Veränderung und Weiterentwicklung mit neuen Methoden der Informationstechnologie von Anfang an mitgestalten möchten.\n\nZu dem Aufgabenspektrum des Referates „Anwendungsentwicklung “ gehören insbesondere\n\n    Verfahrensentwicklung für die Fachabteilungen des Hauses und anderen statistische Ämter (erfolgt in erster Linie mit Java und JavaScript unter Windows),\n    Entwicklung von Formularen für die Datenerhebung,\n    Tabellierung und grafische Aufbereitung,\n    Qualitätssicherung.\n\nAufgabenschwerpunkte\n\nZu den zu erledigenden Aufgaben gehören:\n\n    Entwicklung und Pflege von Fachverfahren mit Java, Frameworks und React,\n    Datenbankmodellierung und -entwicklung insbesondere mit MySQL,\n    Bugfixing und Troubleshooting der entwickelten Anwendungen,\n    Dokumentation der Software.",
+		"skillList": "java, react, mysql, tomcat, jboss, testing",
+		"publicationDate": "2022-12-28"
+	},
+	{
+		"id": 31,
+		"title": "Web Developer React/SQL",
+		"company": "IMA Schelling Deutschland GmbH",
+		"url": "https://www.xing.com/jobs/luebbecke-web-developer-maschinensoftware-react-sql-applikationen-95310684?paging_context=search&search_query%5Bkeywords%5D=sql%20react&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Was erwartet Dich?\n\n    Du entwickelst neue und bereits bestehende Webapplikationen und Mobile Apps für unsere Maschinen und deren Umfeld weiter\n    Du setzt innovative Features und eigene Ideen in direkter Zusammenarbeit mit den UI-/UX-Experten um\n    Du begleitest den gesamten Entwicklungsprozess von der Anforderungsanalyse über die Konzepterstellung bis zur Realisierung\n\nWas sollten Sie mitbringen?\n\n    Du verfügst über ein abgeschlossenes Studium der Informatik (FH/Uni) oder mehrjährige Berufserfahrung in der Web-Entwicklung\n    Du bringst fundierte Kenntnisse in diversen Web-Technologien (React, Node.js, TypeScript) mit\n    Du hast idealerweise Erfahrung in der Konzeption und Entwicklung von APIs (OpenAPI, REST)\n    Du besitzt Kenntnisse mit Kommunikationsprotokollen wie MQTT und AMQP\n    Du hast bereits Erfahrungen im Umgang mit Datenbanksystemen (SQL/noSQL)\n    Du hast gute Englischkenntnisse in Wort und Schrift",
+		"skillList": "react, node, typescript, rest, openapi, sql, nosql, mqtt, amqp, ux",
+		"publicationDate": "2022-12-29"
+	},
+	{
+		"id": 32,
+		"title": "Fullstack Entwickler NodeJS/React",
+		"company": "Austin Fraser",
+		"url": "https://www.xing.com/jobs/berlin-fullstack-entwickler-nodejs-react-deu-95176136?paging_context=search&search_query%5Bkeywords%5D=sql%20react&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Aufgaben\n\n    Du wirst Teil eines agilen Scrum Teams indem du neue Anwendungen konzipierst und eine Komponenten-Bibliothek aufbaust und erweiterst\n\n    Du evaluierst und erprobst neue Technologien und Frameworks\n\n    Mit deinem Entwicklungsteam die zentralen Internetauftritte für rund 50 Millionen Kund:innen weiterentwickeln\n\nProfil\n\n    Du bist ideenreich, lernst gerne neues dazu, hast Spaß an agiler Entwicklung, Code Reviews und eine Clean Code Mentalität\n\n    vertraut mit Technologien wie Java, JavaScript, HTML und CSS und gängigen Frameworks - Spring Boot, Maven/Gradle, ReactJS\n\n    Du sprichst Deutsch Verhandlungssicher in Wort und Schrift\n\n    Umgang mit SQL Datenbanken wie MySQL oder MariaDB Einsetzung von Software-Entwurfsmustern\n\n    Interesse an CI/CD (GitLabCI), Kubernetes und Docker\n\n    Mindestens 3 Jahre Berufserfahrung",
+		"skillList": "react, node, java, springboot, maven, gradle, mysql, mariadb, cicd, gitlabci, kubernetes, docker, cleancode",
+		"publicationDate": "2022-12-30"
+	},
+	{
+		"id": 33,
+		"title": "Fullstack Engineer Python/React",
+		"company": "Amboss",
+		"url": "https://www.xing.com/jobs/berlin-full-stack-engineer-python-react-memorization-team-94896682?paging_context=search&search_query%5Bkeywords%5D=sql%20react&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "What you will do\n\n    Design, build and extend our Python backend services and REST APIs.\n    Build new features for the AMBOSS Anki add-on, on the frontend, for desktop and mobile web clients.\n    Migrate existing features from Python, SSR and JavaScript to React and TypeScript, using our design system.\n    Maintain and extend our test suites and integration pipelines.\n    Use observability tools and practices to ensure quality in production.\n\nWhat you will bring\n\n    2+ years of experience in backend development using Python. We also work in Go, but it can be learned, if needed. On Python, we use FastAPI.\n    2+ years of experience in modern frontend development. We work mostly in TypeScript and React.\n    Some experience with Docker and Kubernetes or similar cloud orchestration systems. We use EKS on AWS.\n    Ideally experience in Python/Qt desktop development, or even Anki add-on experience, but it is not required.\n    Ideally experience with product analytics and SQL databases, in order to help make data-driven decisions in the team.\n    You hold yourself and others to a high bar, care deeply about the quality of your work, employ good quality engineering practices, and strive for constant improvement.\n    You thrive in a collaborative environment and like working with a diverse group of people, from medical stakeholders to platform engineers.\n    You enjoy shipping and maintaining great products within an empowered team, using modern integration, deployment and observability tools and practices.\n",
+		"skillList": "react, typescript, python, sql, fastapi, go, docker, kubernetes, eks, aws, pythonqt",
+		"publicationDate": "2022-12-31"
+	},
+	{
+		"id": 34,
+		"title": "Fullstack Developer React/Java",
+		"company": "VEDA GmbH",
+		"url": "https://www.xing.com/jobs/alsdorf-fullstack-developer-react-java-95109999?paging_context=search&search_query%5Bkeywords%5D=sql%20react&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "\nDein Profil:\n\n    Dein ProfilDu hast bereits Berufserfahrungen im Bereich der Fullstack-Entwicklung gesammelt.\n    Du besitzt einen ausgeprägten Teamgeist und entwickelst leidenschaftlich an Softwarelösungen.\n    Du beherrscht die Entwicklung in Java 8 (oder höher) sicher, Spring Framework (SpringBoot), Hibernate, SQL, Maven, React und TypeScript.\n    Du hast idealerweise Erfahrungen mit MaterialUI oder einer anderen Komponentenbibliothek gesammelt.,\n    Du verfügst über sehr gute Deutsch- und gute Englischkenntnisse.\n    Du hast Freude daran, andere Teammitglieder zu befähigen und dein Wissen weiterzugeben. \n\nDich erwartet:\n\n    Ein Produktteam, das Ende-zu-Ende-Verantwortung für in sich geschlossene Fachbereiche des Produkts übernimmt und Frontend sowie Backend in Zusammenarbeit mit UX Design und Product Owner gestaltet.\n    Eine effektive Mischung aus selbstwirksamem Arbeiten und Kooperation im Team.\n    Viel Freiraum und Flexibilität (z.B. bzgl. Zeit und Ort).\n    Eine stetige Weiterbildung und -entwicklung von Fähigkeiten – auch durch interdisziplinäre Aufgaben und Projekte.\n    Der Einsatz moderner Technologien und neuer Tools.\n    Führung auf Augenhöhe und eine innovationsfreundliche Fehlerkultur.\n    Austausch mit und Impulse von anderen Spezialist*innen.\n    Ein familiäres Unternehmensumfeld mit individuellen Entwicklungs- und Veränderungsmöglichkeiten.\n\n",
+		"skillList": "react, java, typescript, springboot, hibernate, sql, maven, mui",
+		"publicationDate": "2023-01-01"
+	},
+	{
+		"id": 35,
+		"title": "Software-Entwickler",
+		"company": "CIPHRON GmbH",
+		"url": "https://www.xing.com/jobs/hannover-software-entwickler-vollzeit-95370904?paging_context=search&search_query%5Bkeywords%5D=sqlite&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Aufgaben\n\nWir suchen zum frühestmöglichen Zeitpunkt einen Software-Entwickler (m/w/d) in Vollzeit\n\n    Begleitung von Sprints der Enwicklungsteams unserer Kunden mit besonderem Augenmerk auf Sicherheitsrelevante\n    Prozesse (SDLC)\n    Konzeptionierung und Umsetzung von Greenfield-Projekten mit einer agilen Methodik\n    Regelmäßige Betreuung und Wartung einer Bestandssoftware\n\nDie vollständige und detaillierte Benennung anfallender Aufgaben und zugeordneter Verantwortung vermitteln wir gerne in\neinem persönlichen Gespräch.\nQualifikation\n\n    Hohe Lernbereitschaft sowie eine analytische, strukturierte und selbstständige Arbeitsweise\n    Fundierte Kenntnisse im Bereich der sicheren Software-Entwicklung\n    Test-fokussierte Entwicklungsweise\n    Gute Kenntnisse in der Entwicklung mit Go\n    Grundkenntnisse mindestens eines modernen Javascript Frameworks (wünschenswert: VueJS) sowie HTML/CSS\n    Docker-Kenntnisse von Vorteil\n    Erfahrungen mit CI/CD wünschenswert\n    Keine Berührungsängste mit Linux-Servern und deren Konfiguration über Terminaleingaben\n    Sicherer Umgang mit Git, Gitlab\n    Sicherer Umgang mit SQL- und NoSQL-Datenbanken (z.B. MySQL, PostgreSQL, MongoDB, Sqlite)\n    Idealerweise Erfahrungen mit PHP, Zend Framework und LaTeX oder Bereitschaft sich in diese Themen einzuarbeiten\n    (Bestandssoftware)\n",
+		"skillList": "go, react, angular, vue, docker, cicd, linuxadmin, git, gitlab, mysql, postgres, mongodb, sqlite, php, zend, latex",
+		"publicationDate": "2023-01-02"
+	},
+	{
+		"id": 36,
+		"title": "Big Data Engineer",
+		"company": "AP Sensing",
+		"url": "https://www.stepstone.de/stellenangebote--Big-Data-Engineer-m-w-d-Boeblingen-bei-Stuttgart-AP-Sensing-GmbH--8864317-inline.html?rltr=55_5_25_seorl_m_0_0_0_0_1_0",
+		"description": "Deine Verantwortung\n\n    Du arbeitest in einem interdisziplinären Team mit Experten an der Weiterentwicklung und Optimierung unserer Dateninfrastruktur\n    Du organisierst große Datenmengen in einem Data Lake\n    Du entwickelst auf Basis von Python effiziente Datenpipelines und Schnittstellen für das maschinelle Lernen und andere Anwendungen\n    Du ermöglichst Funktionsentwicklern die erfolgreiche und vielfältige Nutzung ihrer Arbeit und gestaltest so die Zukunft der verteilten faseroptischen Sensoren in einer Vielzahl neuer Anwendungen\n\nDein Profil\n\n    Du hast einen Studienabschluss in der Fachrichtung Informatik, Physik, Mathematik oder Ingenieurwissenschaften\n    Idealerweise verfügst du über erste praktische Berufserfahrung im Big Data Umfeld\n    Du kombinierst Programmierkenntnisse in Python mit Erfahrungen im strukturierten Umgang mit großen Datenmengen\n    Erste Erfahrung mit SQL und/oder NoSQL Datenbanken\n    Deine Arbeitsweise ist analytisch, strukturiert und selbständig\n    Du bringst gute Kommunikations- und Präsentationsfähigkeiten in Deutsch und Englisch mit",
+		"skillList": "bigdata, datalake, datapipelines, sql, nosql, python, machinelearning, mint",
+		"publicationDate": "2023-01-03"
+	},
+	{
+		"id": 37,
+		"title": "Full Stack Developer CMS",
+		"company": "NOZ Digital GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Full-Stack-Developer-CMS-m-w-d-Osnabrueck-NOZ-Digital-GmbH--9071745-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0",
+		"description": "So bringst du dich ein:\n\n    Du arbeitest in einer modernen Entwicklungsumgebung mit einem agilen Team und modernen Technologien inkl. Codereview und Qualitätssicherung\n    Gemeinsam mit dem Team bist du verantwortlich für die Weiterentwicklung des Front- und Backends und den Betrieb unserer unternehmensweiten CMS-Lösung\n    Du arbeitest mit Entwicklern, Product Ownern und Projektmanagern hinsichtlich technischer und fachlicher Fragestellungen zusammen\n    Die Analyse, Bewertung und Optimierung von Anforderungen, Datenbanken und Prozessen gehören ebenfalls zu deinen Tätigkeiten\n    Mit deinem Fokus auf testgetriebene Entwicklungsmethoden gewährleistest du eine nachhaltig entwickelte Codequalität\n\nDas bringst du mit:\n\n    Abgeschlossenes Studium in einem MINT-Studiengang oder eine vergleichbare Ausbildung\n    Breiter Entwicklungs-Stack mit Fokus auf Java oder PHP sowie Javascript Frameworks (bspw. node.js, react…)\n    Gute Kenntnisse im Umgang mit MySQL oder MariaDB und Versionsverwaltungssystemen (z.B. Git)\n    Selbstverständlicher Umgang mit Continuous Integration / Development (CI/CD)\n    Idealerweise Erfahrung im Aufbau / Betrieb von verteilten Architekturen (Microservices), bevorzugt in der Public Cloud (z.B. AWS)\n    Spaß im Umgang mit Menschen, Teamfähigkeit, Kommunikationsstärke und eigenverantwortliches Arbeiten\n    Gute Deutsch- und Englischkenntnisse",
+		"skillList": "java, php, node, react, mysql, mariadb, git, cicd, microservices, aws, mint",
+		"publicationDate": "2023-01-04"
+	},
+	{
+		"id": 38,
+		"title": "Software Entwickler",
+		"company": "Otto Group Solution Provider GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Software-Entwickler-m-w-div-Kotlin-Java-Kafka-SpringBoot-Typescript-React-Vue-js-AWS-Dresden-Otto-Group-Solution-Provider-OSP-GmbH--8848151-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0",
+		"description": "Das erwartet dich\n\n    Ein offenes und cross-funktionales Team, dem Mehrwert, Code-Qualität, Design und die Schaffung agiler Software-Architektur wichtig ist\n    Kennenlernen von Handels-, Marketing- und Logistikprozessen der Otto Group\n    Gestaltung des gesamten Entwicklungsprozesses mit bspw. Typescript, React, Vue.js im Frontend und SpringBoot, Kotlin, Java, Kafka im Backend\n    Domain Driven Design, testgetriebene Entwicklung, Continuous Integraton und Continuous Delivery (z.B. Docker, Gradle und Jenkins, AWS, Kubernates)\n    Möglichkeiten kontinuierlich neue Technologien auszuprobieren und zu evaluieren\n\nDas bringst du mit\n\n    Du begeisterst dich für die Entwicklung und Entstehung von Konzepten sowie deren technische Umsetzung\n    Du bringst fundierte Kenntnisse und mehrjährige praktische Erfahrung in einer objektorientierten Programmiersprache (Java, Kotlin, Go etc.) und der Entwicklung mit Webtechnologien (TypeScript, Angular, React, Vue.js etc.)\n    Du besitzt idealerweise Know-how im Bereich Continuous Integration, Continuous Delivery und Testautomatisierung\n    Du bist ein Teamplayer, teilst gerne dein Wissen mit anderen und bist offen für neue Herausforderungen\n    Du hast Konversationssichere Deutsch- und Englischkenntnisse\n",
+		"skillList": "react, typescript, vue, angular, springboot, kotlin, java, kafka, domaindrivendesign, testing, cicd, docker, gradle, jenkins, aws, kubernetes, go",
+		"publicationDate": "2023-01-05"
+	},
+	{
+		"id": 39,
+		"title": "Backend Entwickler",
+		"company": "Enerparc AG",
+		"url": "https://www.stepstone.de/stellenangebote--Backend-Entwickler-m-w-d-im-Bereich-Erneuerbarer-Energien-Hamburg-Enerparc-AG--9034549-inline.html?rltr=12_12_25_seorl_m_0_0_0_0_0_0",
+		"description": "Ihr Aufgabenbereich\n\nFür den Unterstützung unser IT-Abteilung suchen wir ab sofort einen motivierten und engagierten Backend Entwickler (m/w/d) für unseren Standort in Hamburg.\n\n    Unterstützung des Entwicklungsteams im Rahmen einer betriebsinternen Softwareentwicklung\n    Zusammenarbeit mit den Mitarbeitern des IT- und Energiehandels\n    Pflege von bestehenden Systemkomponenten\n\nIhr berufliches Know-how\n\n    Abgeschlossenes Studium der Informatik o.ä.\n    Erfahrung mit Javascript/Typescript / Node.js\n    Wünschenswert sind Erfahrungen mit MongoDB und relationalen Datenbanken sowie mit Amazon Web Services\n    Begrüßt werden Berufserfahrung in der Industrie\n    Schnelle Auffassungsgabe, hohe Eigeninitiative und Kreativität\n    Selbstständige Arbeitsweise, ausgeprägte Teamfähigkeit, Zuverlässigkeit, Belastbarkeit, Eigenmotivation\n\n",
+		"skillList": "typescript, node, mongodb, aws",
+		"publicationDate": "2023-01-06"
+	},
+	{
+		"id": 40,
+		"title": "Full Stack Developer",
+		"company": "StayFriends GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Full-Stack-Developer-m-w-d-Berlin-StayFriends-GmbH--9076913-inline.html?rltr=15_15_25_seorl_m_0_0_0_0_1_0",
+		"description": "Deine Aufgaben\n\n    Du konzipierst, implementierst und entwickelst eigenverantwortlich moderne Web-Applikationen in Frontend und Backend\n    Du entwickelst neue Features sowie Testing und Code Reviews\n    Du wartest und hältst unsere Plattform lebensfreunde.de instand\n    Du entwickelst mit Java und Angular\n    Du bist in einem14-tägigen Sprint-Zyklus mit ausführlichem Deployment, damit unsere User Deine Ergebnisse sehen und nutzen können\n\nDas ist unser Technologiestack\n\nJava Spring Boot\n\n    Angular 6+ / JavaScript\n    HTML5 / CSS3 / SASS\n    SQL / MySQL / NoSQL - MongoDB\n    JIRA\n    Bitbucket\n    Jenkins\n    Kubernetes / Fabric8 / Docker\n\nSo bist Du\n\n    Du hast ein erfolgreich abgeschlossenes Studium, eine abgeschlossene Ausbildung im Informatikbereich oder einschlägige Berufserfahrung\n    Du verfügst über fundierte Erfahrungen als JavaScript- / AngularJS Entwickler (m/w)\n    Du hast sehr gute HTML5 und CSS3 Kenntnisse für mehrere Browser\n    Du besitzt gute Kenntnisse der objektorientierten Programmierung mit Java\n    Idealerweise hast Du bereits Erfahrungen in der Frontend-Entwicklung für mobile Endgeräte (Responsive Design)\n    Idealerweise hast Du ebenfalls bereits Kenntnisse im Umgang mit Web Services (REST, Microservice Architectur, CQRS)\n    Du bist offen für agile Arbeitsmethoden",
+		"skillList": "angular, java, sql, mysql, nosql, mongodb, springboot, rest, oop, responsive, sass, jira, bitbucket, jenkins, kubernetes, fabric8, docker,  microservices, cqrs",
+		"publicationDate": "2023-01-07"
+	},
+	{
+		"id": 41,
+		"title": "Fullstack Entwickler",
+		"company": "Conwiss Consulting GmbH",
+		"url": "https://www.xing.com/jobs/berlin-fullstack-entwickler-java-it-support-informatik-95642617?paging_context=search&search_query%5Bkeywords%5D=mongodb&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Was erwartet dich?\n\n    Du entwickelst im Web-Frontend und JVM Backend\n    Du arbeitest mit den Methoden der agilen Softwareentwicklung wie Test-Driven Development (TDD), Pair-Programming oder Continuous Delivery\n    Du berätst bei der Entwicklung und Umsetzung von komplexen Applikationen\n    Du verantwortest Softwareentwicklung unter Nutzung aktueller Java-, Mobile- und Web-Technologien ​in einer AWS Cloud\n    Du verantwortest den regelmäßigen Dev Austausch, Entwickler Convention, Planning, Estimation usw.\n    Du arbeitest mit einem crossfunktionalen Scrum-Team sowie direkt mit den Kollegen aus UX, QA, Analytics etc. zusammen\n\nWas solltest du mitbringen?\n\n    Du hast ein abgeschlossenes Studium oder erfolgreich absolvierte Ausbildung mit Schwerpunkt Informatik\n    Du bringst Projekterfahrung in der agilen Softwareentwicklung (Scrum) und dem Aufbau komplexerer Webanwendungen mit\n    Du hast Erfahrung im Entwurf und der Erstellung von Web-Systemen mit Java-Technologien und gängigen WebTechnologien (JavaScript, HTML)\n    Du hast fundierte Erfahrungen in der Java Softwareentwicklung und Kenntnisse mit Cloud-Umgebungen (idealerweise AWS)\n    Du bringst Erfahrungen rund um dokumentenorientierte Datenbanken (z.B. MongoDB, DynamoDB) mit\n    Du hast Kenntnisse im Responsive Design, Kotlin, TypeScript, Docker, AWS, GitHub Actions, funktionale Programmierung\n    Du bringst projektbezogene Reisebereitschaft innerhalb Deutschlands mit\n    Du verfügst über gute Deutschkenntnisse\n",
+		"skillList": "java, typescript, aws, mongodb, dynamodb, tdd, kotlin, docker, githubactions, functionalprogramming, cicd, ux",
+		"publicationDate": "2023-01-08"
+	},
+	{
+		"id": 42,
+		"title": "Webentwickler",
+		"company": "xSuite Group GmbH",
+		"url": "https://www.xing.com/jobs/muenchen-webentwickler-it-customer-support-javascript-html-95647827?paging_context=search&search_query%5Bkeywords%5D=mongodb&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Was erwartet dich?\n\n    Du verantwortest die (Weiter-)Entwicklung unseres breiten Produkt-Portfolios und konzipierst und realisierst hierfür neue Features im Rahmen eines Scrum-orientierten Entwicklungsprozesses (inkl. Sprints, Reviews, Retrospective, Continuous Deployment, Continuous Integration)\n    Du arbeitest mit dem \"Core\"-Entwicklerteam zusammen und darüber hinaus stehst du im engen Austausch mit dem Produktmanagement\n    Du führst zur Qualitätssicherung Funktions-, Integrations- sowie Modultests durch und bist für die Erstellung von Dokumentationen verantwortlich\n\nWas solltest du mitbringen?\n\n    Du verfügst über mehrjährige Erfahrung als JavaScript Entwickler (m/w/d)\n    Du besitzt hervorragende Kenntnisse in HTML und CSS und kennst dich mit REST, MVC oder Single-Page Applications aus\n    Du gehst sicher mit Frameworks wie Angular.js, React, Vue.js, jQuery oder OpenUI5 um\n    Du besitzt bestenfalls Open Source Kenntnisse (z.B. MongoDB, PostgreSQL, Kubernetes und Docker) oder Kenntnisse in Node.js\n",
+		"skillList": "react, node, rest, mongodb, postgres, angular, vue, mvc, jquery, openui5, docker, kubernetes, cicd",
+		"publicationDate": "2023-01-09"
+	},
+	{
+		"id": 43,
+		"title": "Softwareentwickler Go / Golang",
+		"company": "ESE Engineering und Software-Entwicklung GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Softwareentwickler-Go-Golang-m-w-d-Braunschweig-und-Hannover-ESE-Engineering-und-Software-Entwicklung-GmbH--6029808-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_1_0",
+		"description": "Was Du bei uns machst\n\nStarte bei uns als Go-Entwickler und wirke bei der Digitalisierung von Vertriebsplattformen von der Entscheidungsfindung über die Planung bis hin zu Programmierung und Test mit.\n\n    Programmierung und Test von Backend Systemen\n    Eigenverantwortliche Umsetzung funktionaler Anforderungen\n    Selbstständige Weiterentwicklung und Optimierung bestehender Systeme\n    Aufbau und Anbindung neuer Systeme an die bestehende IT-Landschaft\n    Analyse und Behebung von Software-Fehlern\n    Unterstützung bei der Entscheidungsfindung und Entwicklungsprozessplanung\n\nWann Du zu uns passt\n\n    Abgeschlossenes Informatikstudium oder eine vergleichbare abgeschlossene Ausbildung\n    Erste Berufserfahrung in der Entwicklung mit Go / Golang sowie in der Schnittstellenprogrammierung\n    Erfahren in der Arbeit mit gängigen Datenbanken (z.B. MongoDB, CouchDB) und MySQL\n    Kenntnisse in der Programmiersprache C#/.Net wünschenswert\n    Erste Erfahrungen in der Frontend Entwicklung und Frameworks wie z.B. Spring, Angular, React von Vorteil\n    Hohe Team- und Kommunikationsfähigkeit sowie Freude am agilen Arbeiten\n    Deutsch fließend und Englisch sehr gut in Wort und Schrift\n\n",
+		"skillList": "go, mongodb, couchdb, mysql, react, angular, csharp, dotnet, springboot, testing",
+		"publicationDate": "2023-01-10"
+	},
+	{
+		"id": 44,
+		"title": "Werkstudent Software Development",
+		"company": "abl solutions GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Werkstudent-Software-Development-m-w-d-Nuernberg-abl-solutions-GmbH--9093672-inline.html?rltr=17_17_25_seorl_m_0_0_0_0_1_0",
+		"description": "Deine Aufgaben\n\nUnsere \"Success-Story made in Nürnberg\" geht weiter! Deshalb suchen wir Kolleginnen und Kollegen, die sich in einer zukunftssicheren Branche persönlich sowie beruflich gemeinsam mit uns weiterentwickeln möchten. Du hast Lust, mit uns neue Verbindungen zu schaffen, die die Welt vernetzen? Dann suchen wir dich als Verstärkung unseres Teams in Nürnberg als Werkstudent (m/w/d) Software Development.\n\nDas wartet auf dich:\n\nDu unterstützt unsere Abteilung Solutions & Marketing sowohl im operativen als auch im administrativen Tagesgeschäft.\n\n    Du arbeitest als vollwertiger Teil eines erfahrenen Teams im Bereich Software Development\n    Du bist an der Entwicklung herausragender Lösungen für unsere Kunden beteiligt\n    Du arbeitest mit den Programmiersprachen node.js, React, React Native, Python, Java\n    Du erhältst einen Einblick in verschiedene Technologien wie Postgres, MongoDB, Google Cloud, Kafka, etc.\n    Du kannst Kenntnisse in Software Engineering Methoden mit DDD, TDD, BDD, Microservices, DevOps und System Administration, etc. aufbauen\n\nDein Profil\n\nDas bringst du mit:\n\n    Du studierst Informatik, Wirtschaftsinformatik oder ein ähnliches relevantes Fachgebiet (Bachelor oder Master)\n    Du stehst während der Vorlesungszeit ab sofort für 20 Stunden/ Woche für uns zur Verfügung\n    Wenn du bereits erste Erfahrung in der IT/im Software Development hast, ist das ein Pluspunkt\n    Du bringst Organisationsgeschick, Kommunikationsstärke sowie technisches Verständnis mit\n    Du bist sicher im Umgang mit MS-Office-Anwendungen\n    Du verfügst über gute Englischkenntnisse und sehr gute Deutschkenntnisse in Wort und Schrift\n    Ob selbstständig oder gemeinsam im Team: Du arbeitest organisiert, sorgfältig und verantwortungsbewusst\n    Integrität und Diskretion im Umgang mit sensiblen Daten runden dein Profil ab\n",
+		"skillList": "node, react, reactnative, python, java, postgres, mongodb, googlecloud, kafka, ddd, tdd, bdd, microservices, devops, linuxadmin",
+		"publicationDate": "2023-01-11"
+	},
+	{
+		"id": 45,
+		"title": "IT-Entwickler",
+		"company": "Stadtwerke Herne AG",
+		"url": "https://www.stepstone.de/stellenangebote--Developer-IT-Entwickler-m-w-d-Herne-Stadtwerke-Herne-AG--8987505-inline.html?rltr=23_23_25_seorl_m_0_0_0_0_0_0",
+		"description": "Deine Aufgaben\n\n    Weiterentwicklung unserer Open-Source-Datenplattform auf FIWARE Basis\n    Konzeption und Entwicklung von neuen Anwendungen\n    Gemeinsame Entwicklung von Forschungsprojekten oder Proof of concepts in internationalen Teams und mit Hochschulen\n    Test und Dokumentation unserer Anwendungen\n    Pflege und Optimierung von bestehenden Anwendungen\n\nUnsere Anforderungen an Dich\n\n    Abgeschlossene fachbezogene 3-jährige Ausbildung und Zusatzausbildung oder abgeschlossenes fachbezogenes Hochschulstudium\n    Gute Kenntnisse in der Anwendungsentwicklung mit modernen Programmiersprachen wie z.B. Python\n    Gute Kenntnisse im Bereich Webentwicklung und IoT, z.B. Javascript oder MQTT\n    Gute Kenntnisse im Umgang mit relationalen oder NoSQL-Datenbanken, z.B. MySQL oder MongoDB\n    Kenntnisse im Bereich Web-Frameworks und Schnittstellentechnologien, wie z.B. REST\n    Grundkenntnisse in den Bereichen Linux, Kubernetes und Docker\n    Sichere Kommunikation in Englisch\n    Team- und Kritikfähigkeit\n    Hands-on-Mentalität\n\n",
+		"skillList": "python, iot, mqtt, mysql, mongodb, react, angular, vue, rest, linuxadmin, testing, docker, kubernetes",
+		"publicationDate": "2023-01-12"
+	},
+	{
+		"id": 46,
+		"title": "Datenbank Engineer",
+		"company": "BWI GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Datenbank-Engineer-Open-Source-DB-MongoDB-m-w-d-bundesweit-Muenchen-Erfurt-Frankfurt-Hamburg-Nuernberg-Ulm-Wilhelmshaven-Berlin-Bonn-BWI-GmbH--9049239-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_1_0",
+		"description": "Ihre Aufgaben:\n\n    Planung, Aufbau und Betrieb (Administration) der Datenbanken entsprechend den betrieblichen Anforderungen, IT Sicherheitsvorgaben und Vorgaben aus den Sicherheitsprozessen im Linux Umfeld\n\n    Pflege von Usern und Berechtigungen, Zugriffssteuerung\n\n    Einrichten von Triggern / Jobs\n\n    Backup / Restore von Datenbanken\n\n    Konfiguration der Datenbanken\n\n    Sicherstellung von Monitoring und Reporting Strukturen (CheckMK)\n\nIhr Profil:\n\n    Abgeschlossenes Studium im Bereich IT oder gleichwertige Ausbildung mit entsprechenden Fachkenntnissen und mindestens 5 Jahren Berufserfahrung inkl. Projekterfahrung\n\n    Mehrjährige praktische Erfahrung in der Administration von Open Source Datenbanken sowie Erfahrung in der fachlichen Führung\n\n    Kentnisse in Mongo 4.0 und höher, sowie im Betrieb von Hochverfügbarkeitslösungen (Mongo Replikasets)\n\n    Zertifizierungen im Bereich der Open Source Datenbanken oder vergleichbares Know-how\n    Ausgeprägte Kenntnisse der IT-Service-Support-Prozesse (Schwerpunkt Incident-, Problem-, Change Management)\n\n    Betriebssystem-Kenntnisse unter LINUX\n",
+		"skillList": "mongodb, linuxadmin",
+		"publicationDate": "2023-01-13"
+	},
+	{
+		"id": 47,
+		"title": "Web Frontend Softwareentwickler",
+		"company": "Hella Gutmann Solutions GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Web-Frontend-Softwareentwickler-Frontend-Developer-m-w-d-Javascript-React-Redux-Ihringen-bei-Freiburg-im-Breisgau-Berlin-Hella-Gutmann-Solutions-GmbH--9060608-inline.html?rltr=3_3_25_seorl_m_0_0_0_0_0_0",
+		"description": "ZEIGE, WAS IN DIR STECKT, UND GESTALTE MIT UNS GEMEINSAM DIE ZUKUNFT VON HELLA GUTMANN\n\n    Du bist Teil eines großen interdisziplinären Teams, das die Umsetzung unserer Frontend-Applikationen auf Basis von React und Redux verantwortet,\n    Du bist mitverantwortlich für den Ausbau unseres eigenen UI-Toolkits,\n    Du unterstützt unsere Kunden, die bestmögliche User-Experience zu erleben, auch auf mobilen Endgeräten,\n    Du stellst die Qualität und die Funktionalität der Applikation über Unit- und Integrationstests sicher.\n\nWARUM DU ZU UNS PASST\n\n    Du hast eine abgeschlossene Ausbildung als Fachinformatiker*in für Anwendungsentwicklung, ein abgeschlossenes Studium der Informatik oder eine vergleichbare Ausbildung bzw. Du bist Quereinsteiger*in mit nachweisbarer Expertise,\n    Du bringst idealerweise mehrjährige Berufserfahrung in der Webentwicklung mit, bestenfalls mit dem Schwerpunkt Frontend-Entwicklung,\n    Du verfügst über sehr gute Fachkenntnisse in JavaScript (ECMAScript 2015) sowie den Frameworks React und Redux,\n    Du hast fundierte Fachkenntnisse in den gängigen Webstandards (CSS3 und HTML5) und idealerweise auch das Know-how für die Umsetzung mobiler Anwendungen und SPAs,\n    Unit- und Integrationstests sind keine Fremdwörter für Dich,\n    Du hast den Begriff „Funktionale Programmierung“ schon einmal gehört,\n    Du bringst sehr gute Deutsch- und gute Englischkenntnisse mit,\n    Fachkenntnisse bei WebGL und der Fehler- und Performance-Analyse runden Dein Profil ab.\n",
+		"skillList": "react, redux, testing, functionalprogramming",
+		"publicationDate": "2023-01-14"
+	},
+	{
+		"id": 48,
+		"title": "Junior Entwickler",
+		"company": "AUEL EDV-Beratung GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Junior-Entwickler-Java-React-AngularJS-m-w-d-vor-Ort-hybrid-oder-remote-Braunschweig-AUEL-EDV-Beratung-GmbH--4006293-inline.html?rltr=9_9_25_seorl_m_0_0_0_0_1_0",
+		"description": "Deine Aufgaben:\n\n    Arbeit in agilen Teams mit individuellen fachlichen Aufgabenstellungen aus den verschiedenen Branchen\n    Neu- und Weiterentwicklung mehrschichtiger Anwendungen auf der Basis von AngularJS / React / Java / Datenbanken / Blockchain\n    Mitarbeit bei der Konzeption und dem Entwurf individueller Softwarelösungen\n    Durchführen interner Modultests\n\nDein Profil:\n\n    Kenntnisse in einer Programmiersprache\n    Optionale Kenntnisse in React, Javascript, AngularJS, Java\n    Optional Kenntnisse in relationalen Datenbanken\n    Ausgeprägte Kundenorientierung und hohes Verantwortungsbewusstsein\n    Gute Deutschkenntnisse\n\n",
+		"skillList": "react, angular, java, sql, nosql, blockchain",
+		"publicationDate": "2023-01-15"
+	},
+	{
+		"id": 49,
+		"title": "Full Stack Developer",
+		"company": "GreenPocket GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Full-Stack-JavaScript-TypeScript-Developer-in-Koeln-GreenPocket-GmbH--8783143-inline.html?rltr=14_14_25_seorl_m_0_0_0_0_1_0",
+		"description": "DEINE AUFGABEN\n\n    Gemeinsam mit dem Entwickler:innenteam, den Product Ownern und den UX/UI-Designern treibst Du die Weiterentwicklung unserer SaaS-Lösungen (insbesondere Microservices) an\n    Du designst, testest, wartest und verbesserst die Software fortlaufend sowohl selbstständig als auch in Deinem Team\n    Du stehst dem Produktmanagement bei technischen Fragen beratend zur Seite und besprichst Dich mit Ihnen und dem Fachbereich zu fachlichen und technischen Anforderungen und deren Umsetzung\n    Im DevOps Bereich bringst Du Dich zunehmend mitverantwortlich in Architektur, Programmierung und Tests ein\n    Durch Pair Programming, Code Reviews und Prototyping entwickelst Du nicht nur unsere Produkte, sondern auch Dich kontinuierlich weiter\n    Du tauschst Dich regelmäßig im Rahmen von „DevComs“ oder unserem Architecture Board mit unseren agilen und interdisziplinären Teams aus\n    Du schaust über den eigenen Tellerrand hinaus, verwirklichst Deine Ideen in monatlichen GreenDays und hast die Möglichkeit, diese Ideen in die Produktentwicklung einzubringen\n\nIhr Profil\n\n    Du hast Dein Studium im IT-Bereich erfolgreich abgeschlossen oder eine vergleichbare Ausbildung, mit der Du uns überzeugen kannst\n    Darüber hinaus bringst Du bereits erste Erfahrung als Software Developer:in mit, idealerweise im SaaS-Umfeld\n    Du hast erste Praxiserfahrungen mit Microservices und Cloudinfrastrukturen\n    Du glänzt mit einem umfangreichen JavaScript-/TypeScript-Wissen, idealerweise im React-Kontext. Alternativ punktest Du mit einem sehr guten Java- oder Kotlin-Know-how und hast Erfahrung mit SpringBoot.\n    Du kennst Dich im Umgang und in der Nutzung von Standardtools insb. im agilen Umfeld wie bspw. JIRA und Confluence zur Steuerung und Dokumentation der Entwicklung aus\n    Als ein kreativer, analytisch denkender Kopf, hast Du Spaß an neuen Technologien und bringst ein gutes Qualitätsbewusstsein mit\n    Du lebst die Startup-Mentalität, bist motiviert und packst gerne Dinge direkt an\n    Du verfügst über gute Deutsch- sowie sehr gute Englischkenntnisse\n\n",
+		"skillList": "saas, microservices, cloud, typescript, react, java, kotlin, springboot, jira, confluence",
+		"publicationDate": "2023-01-16"
+	},
+	{
+		"id": 50,
+		"title": "Praktikant Webentwicklung",
+		"company": "TROX GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Werkstudent-Praktikant-m-w-d-Webentwicklung-mit-React-Neukirchen-Vluyn-Berlin-TROX-GmbH--9115986-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0",
+		"description": "Diese Aufgaben erwarten Sie:\n\n    Entwicklung von webbasierten Konfigurations- und Steuerungsoberflächen für unsere Produkte\n    Frontend-Entwicklung mit React und TypeScript\n    Entwicklung automatisierter Frontend-Tests\n    Arbeit in einem Scrum-Team unter Verwendung moderner Softwaretools und Programmbibliotheken\n\nDas bringen Sie mit:\n\n    Aktives Studium der (Medien-)Informatik oder vergleichbar (aktuell immatrikuliert und das Studium noch nicht abgeschlossen)\n    Erfahrung im Umgang mit React oder vergleichbaren Webframeworks, JavaScript/TypeScript, CSS\n    Erfahrungen mit GraphQL und Apollo Client von Vorteil\n    Sehr gute bis gute bisherige Studienleistung\n    Strukturierte und selbstständige Arbeitsweise sowie eine schnelle Auffassungsgabe\n    Ausgeprägte Teamfähigkeit und gute Sprachkenntnisse in Deutsch und Englisch\n",
+		"skillList": "react, typescript, testing, graphql, apollo",
+		"publicationDate": "2023-01-17"
+	},
+	{
+		"id": 51,
+		"title": "Fullstack Web Entwickler",
+		"company": "CFMmedia GmbH",
+		"url": "https://www.xing.com/jobs/seligenstadt-fullstack-web-entwickler-node-js-react-mongodb-express-96175268?paging_context=search&search_query%5Bkeywords%5D=mongodb&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Was erwartet dich?\n\n    Du verantwortest die objektorientierte Programmierung von Webanwendungen\n    Du kümmerst dich um die Betreuung und Weiterentwicklungen von bestehenden Projekten\n    Du trägst die Verantwortung von Datenbankmodellierungen mit MongoDB\n    Du bindest REST Schnittstellen an und entwickelst jene weiter\n\nWas solltest du mitbringen?\n\n    Du konntest bereits Erfahrung mit objektorientierter Programmierung sammeln\n    Du hast Erfahrungen mit der Erstellung und Integration von RESTful APIs\n    Du verfügst über gute Kenntnisse in Node.js, MongoDB, Express, React und State Management (Redux oder Mobx)\n    Du hast optional Erfahrung mit Service Worker APIs, Nest.js, Docker, Kubernetes und TypeScript",
+		"skillList": "node, react, typescript, mongodb, express, rest, redux, mobx, nestjs, docker, kubernetes",
+		"publicationDate": "2023-01-18"
+	},
+	{
+		"id": 52,
+		"title": "React.js-Entwickler",
+		"company": "comspace",
+		"url": "https://www.get-in-it.de/jobsuche/p210633",
+		"description": "Deine Aufgaben\n\n    Du entwickelst komplexe und performante React.js-Frontends für unsere vorranging Next.js-basierenden Web-Applikationen.\n    Neue Projekte gestaltest du von Beginn an mit und berätst technologisch das Team und unsere Kunden.\n    Außerhalb von Projektaufgaben nutzt du deine Zeit um fachlich up-to-date zu bleiben. Dabei unterstützen wir dich selbstverständlich mit den notwendigen Schulungen.\n    Dein Wissen über Frontend-Development, Tools und Best-Practices teilst du mit deinem Team und engagierst Dich im Rahmen von internen Tech-Sessions, CoPs, Open Spaces und Pair-Programming.\n\nDeine Stärken\n\n    Du verfügst über mehrjährige praktische Erfahrung in der professionellen Softwareentwicklung mit React.js, JavaScript/TypeScript, REST und GrapQL.\n    Du weißt, wie man Business-Logiken in Node.js umsetzt und hattest idealerweise schon Berührungspunkte mit einem headless CMS wie z.B. Contentful oder Storyblok.\n    Du hast den notwendigen technologischen Blick über den Tellerrand, um dich souverän in einem crossfunktionalen Fullstack-Environment zu orientieren.",
+		"skillList": "react, nextjs, typescript, rest, graphql, node, headlesscms, contentful, storyblok",
+		"publicationDate": "2023-01-19"
+	},
+	{
+		"id": 53,
+		"title": "React Entwickler",
+		"company": "brainbits",
+		"url": "https://www.get-in-it.de/jobsuche/p193468",
+		"description": "Deine Aufgaben:\n\n    Entwicklung feiner Webanwendungen und Features für die Kunden\n    Anforderungsmanagement im Scrum-Team\n    agile Entwicklung, Unit und Functional Testing, Deployment\n    Anbindung externer APIs, enge Zusammenarbeit mit dem Backend\n    regelmäßige Reviews mit Kunden und Product Owner\n    Refinements und technische Bewertung der User Stories\n    Support bei Incidents\n\nDu:\n\n    jonglierst leidenschaftlich gern mit React\n    beherrschst semantisches HTML\n    hast JavaScript oder gar Typescript und Node.js auf dem Kasten\n    zauberst gern mit CSS, SCSS usw.\n    bist vertraut mit Unit-/Functional-Tests (Jest, Testing Library u.ä.)\n    nutzt Versionsverwaltungssysteme (Git) und Build-Tools (z.B. Webpack)\n    virtualisierst virtuos mit Docker\n    hast großen Spaß an Pair Programming und dergleichen\n    liebst agile Methoden und Teamwork\n    bist serviceorientiert und kommunizierst gern",
+		"skillList": "react, typescript, node, sass, testing, jest, git, webpack, docker, cicd",
+		"publicationDate": "2023-01-20"
+	},
+	{
+		"id": 54,
+		"title": "Full Stack Web-Developer",
+		"company": "IT-Labs",
+		"url": "https://www.get-in-it.de/jobsuche/p210389",
+		"description": "Aufgaben\n\n    Mit- und Weiterentwicklung unserer Alberta® Produktpalette\n    Verantwortung für Projekte und Features\n    Architektur-Konzeption\n    Erfahrungen in Scrum-Meetings einbringen\n\nUnsere Technologien:\n\n    Entwicklung in TypeScript\n    Web und Apps: Angular, Ionic/Cordova\n    Backend: Node.js, FeathersJS\n    Datenbank: MongoDB, SQLite\n    Tools: Git, AzureDevOps, Ionic AppFlow, Kubernetes\n\nQualifikation\n\n    Mehrjährige Berufserfahrung in der Entwicklung größerer Web-Anwendungen (Angular, React o. ä. mit JavaScript/TypeScript und HTML5/CSS)\n    Erfahrungen im Umgang mit REST-APIs und Microservices-Architekturen (Node.js)\n    Datenbank Know-how (SQL, noSQL)\n    Affinität zu Clean Code und Unit-Testing\n    Agiles Mindset",
+		"skillList": "react, typescript, angular, node, ioniccordova, feathersjs, rest, mongodb, sqlite, cleancode, testing, azure, kubernetes",
+		"publicationDate": "2023-01-21"
+	},
+	{
+		"id": 55,
+		"title": "Praktikum Frontend Web Development",
+		"company": "BASF",
+		"url": "https://www.get-in-it.de/jobsuche/p208539",
+		"description": "AUFGABEN\n\nUnser interdisziplinäres Team treibt die digitale Transformation an zwei unserer größten Produktionsstandorte voran. Wir begleiten Digitalisierungs-Projekte von der Ideenfindung über die ersten Prototypen bis hin zur Inbetriebnahme. Dabei verwenden wir ein breites Spektrum moderner Methoden aus agiler Softwareentwicklung, Data Science, Machine Learning, Statistik und wissenschaftlichem Rechnen, und setzen dabei auf flache Hierarchien.\n\n    Sie werden Teil unseres Teams und treiben gemeinsam mit uns innovative Projekte zur Digitalisierung von Produktion und Infrastruktur voran.\n    Sie arbeiten eng mit Kolleg:innen und einem fachübergreifenden Experten-Netzwerk zusammen. Die Arbeitsschwerpunkte richten sich dabei nach Ihren Interessen und Fähigkeiten.\n    Mögliche Themenbereiche sind z.B. Design & Implementierung von User Interfaces, Datenmanagement in Single Page Applications, Implementierung von Backends oder die Anbindung von internen & externen APIs und Datenbanken.\n    Ihnen steht unser GitLab-Server sowie unsere Azure-basierte Cloudplattform zur Verfügung.\n    Bei beiderseitigem Interesse ist im Anschluss an das Praktikum eine Abschlussarbeit oder Werkstudententätigkeit möglich.\n\nQUALIFIKATIONEN\n\n    fortgeschrittenes Bachelorstudium (mindestens 4. Semester) oder Masterstudium im Bereich (Wirtschafts-)Informatik, Naturwissenschaften, Ingenieurwissenschaften oder verwandten Disziplinen\n    überdurchschnittliche Ergebnisse im Studium\n    Spaß an der Visualisierung von Daten, eigenverantwortliche Einarbeitung in neue Themen\n    gute Kenntnisse in Javascript/Typescript, CSS, HTML, Python\n    von Vorteil: Erfahrungen mit Frontend-Frameworks (Vue/Nuxt), Backend-Frameworks (FastAPI, Flask), Datenaustausch über REST-APIs oder Softwareentwicklung im Team (git)\n    Lust etwas zu bewegen und greifbare Ergebnisse zu schaffen, die direkt bei Kunden und Partnern eingesetzt werden",
+		"skillList": "vue, nuxt, python, fastapi, flask, rest, git, typescript, mint, azure, gitlab",
+		"publicationDate": "2023-01-22"
+	},
+	{
+		"id": 56,
+		"title": "Webentwickler Frontend",
+		"company": "Ferchau GmbH",
+		"url": "https://www.get-in-it.de/jobsuche/p209685",
+		"description": "Das ist zukünftig Ihr Job\n\n    Neu- und Weiterentwickeln von Web-Applikationen unter JavaScript/TypeScript und Web-UI-Frameworks wie Angular/Blazer/React\n    Erstellen von verschiedenen Konzepten und Softwarearchitekturen\n    Analysieren von fachlichen und technischen Kundenanforderungen\n    Gestalten von Bedienoberflächen\n    Durchführen von Datenbankanbindungen\n    Durchführen von Machbarkeitsanalysen\n    Erstellen der notwendigen technischen Dokumentation\n\nDas erwartet Sie bei uns\n\n    Unbefristeter Arbeitsvertrag\n    Flexible Arbeitszeitgestaltung durch Gleitzeitregelungen\n    Viel Flexibilität durch die Möglichkeit, mobil zu arbeiten\n    Rabatte mit Einkaufsvergünstigungen, z. B. bei Reisen, Elektronik oder Autos\n    Sonderurlaub für wichtige private Anlässe, z. B. Hochzeit, Umzug, Geburt\n    Prämienprogramm für Empfehlungen von neuen Kollegen\n    Echter Teamspirit und Leidenschaft für das, was wir tun\n    Fachliche und persönliche Weiterentwicklungsmöglichkeiten\n\nDas bringen Sie mit\n\n    Erfolgreich abgeschlossenes Studium der Fachrichtung Informatik oder Informationstechnik oder vergleichbare Qualifikation\n    Erfahrung in der Webentwicklung\n    Kenntnisse im Umgang mit JavaScript, HMTL5, CSS, TypeScript und Angular sowie Blazer und React von Vorteil\n    Erfahrung mit agilen Entwicklungsprozessen wünschenswert\n    Gute Deutsch- und Englischkenntnisse in Wort und Schrift",
+		"skillList": "typescript, angular, blazor, react",
+		"publicationDate": "2023-01-23"
+	},
+	{
+		"id": 57,
+		"title": "Web Developer",
+		"company": "Arobo GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Web-Developer-Web-Entwickler-JavaScript-Informatiker-Wirtschaftsinformatiker-bzw-Frontend-Entwickler-CSS-JavaScript-HTML5-w-m-d-Muenster-Nordrhein-Westfalen-Arobo-GmbH--9137433-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_1_0",
+		"description": "Ihre Aufgaben als Web Deve­lo­per (w/m/d)\n\n    Sie entwickeln eine moderne Web-Ober­flä­che zur Ver­wal­tung und Bedie­nung unse­rer auto­no­men Roboter\n    Sie implementieren innova­tive Funk­tio­nen für eine intu­i­tive Benut­zer­er­fah­rung unse­rer Kun­den und des Sup­port-Teams\n    Mit Ihrer Kreativität verleihen Sie unse­rem Online-Auf­tritt ein neues Gesicht\n    Sie arbeiten eng mit dem Team zur Ent­wick­lung des Back­ends und der Mobile App zu­sammen\n\nIhre Qualifikation und Per­sön­lich­keit als Web Deve­lo­per (w/m/d)\n\n    Sie haben Ihr Studium der Infor­ma­tik, Wirt­schafts­in­for­ma­tik bzw. ange­wand­ten Infor­ma­tik erfolg­reich ab­ge­schlos­sen oder sind ver­gleich­bar qua­li­fi­ziert\n    Sie verfügen über Erfahrung mit aktu­el­len Front­end-Tech­no­lo­gien wie JavaScript / TypeScript, HTML5, CSS und Websockets so­wie im Um­gang mit REST-APIs\n    Sie bereichern die User Expe­ri­ence mit Kennt­nis­sen von Design- und Usa­bi­lity-Standards\n    Zusammenarbeit und Team­geist sind für Sie selbst­ver­ständ­lich\n    Es macht Ihnen Spaß, kreativ zu den­ken, Pro­blem­stel­lun­gen zu lösen und Soft­ware mit hohem An­spruch an Per­fek­tion zu ent­wickeln",
+		"skillList": "typescript, websockets, rest, ux",
+		"publicationDate": "2023-01-24"
+	},
+	{
+		"id": 58,
+		"title": "Full-Stack Entwickler",
+		"company": "VR Smart Finanz AG",
+		"url": "https://www.stepstone.de/stellenangebote--Full-Stack-Entwickler-in-React-Ruby-on-Rails-w-m-d-Home-Office-Eschborn-VR-Smart-Finanz-AG--9084977-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_1_0",
+		"description": "Das erwartet dich:\n\n    Ein kreatives Corporate Startup mit viel Energie, Leidenschaft und Teamspirit\n    Eine moderne, innovative Anwendung in React 17, Ruby 3 und Rails 7, die du aktiv mitgestaltest und für die du Verantwortung übernimmst\n    Ein Entwicklungsteam, in dem gemeinsam auf Augenhöhe entwickelt wird\n    Die Möglichkeit, die Konzeption neuer Features zu begleiten und das Konzeptionsteam zu beraten, um effiziente Umsetzungen zu ermöglichen\n    Eine offene Feedbackkultur mit dem Ziel, die bestmögliche Anwendung für unsere 5-stellige Nutzerschaft zu entwickeln\n    Ein neues MacBook und state-of-the-art Development-Tooling\n    Die Freiheit, sowohl sich selbst, als auch neue Technologien auszuprobieren und sich dementsprechend weiterzubilden\n\nDas bringst du mit:\n\n    Ein abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation\n    Sehr gute Programmierkenntnisse und Erfahrung in der Webentwicklung mit React, React Native und/oder Ruby on Rails\n    Versierte Kenntnisse zu Git-basierten Workflows mit automatisierten Builds (CI/CD), DevOps inkl. Docker & nginx, Prozesse, Werkzeuge und Methoden der agilen Entwicklung (Scrum, Kanban, Jira, etc.)\n    Außergewöhnliche Ideen sowie den Mut neue und unkonventionelle Wege zu gehen\n    Gute Englischkenntnisse\n",
+		"skillList": "react, reactnative, rubyonrails, git, cicd, devops, docker, nginx",
+		"publicationDate": "2023-01-25"
+	},
+	{
+		"id": 59,
+		"title": "Junior Frontend Entwickler",
+		"company": "RR Software",
+		"url": "https://www.get-in-it.de/jobsuche/p211881",
+		"description": "Das erwartet dich:\n\n    Ein kreatives Corporate Startup mit viel Energie, Leidenschaft und Teamspirit\n    Eine moderne, innovative Anwendung in React 17, Ruby 3 und Rails 7, die du aktiv mitgestaltest und für die du Verantwortung übernimmst\n    Ein Entwicklungsteam, in dem gemeinsam auf Augenhöhe entwickelt wird\n    Die Möglichkeit, die Konzeption neuer Features zu begleiten und das Konzeptionsteam zu beraten, um effiziente Umsetzungen zu ermöglichen\n    Eine offene Feedbackkultur mit dem Ziel, die bestmögliche Anwendung für unsere 5-stellige Nutzerschaft zu entwickeln\n    Ein neues MacBook und state-of-the-art Development-Tooling\n    Die Freiheit, sowohl sich selbst, als auch neue Technologien auszuprobieren und sich dementsprechend weiterzubilden\n\nDas bringst du mit:\n\n    Ein abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation\n    Sehr gute Programmierkenntnisse und Erfahrung in der Webentwicklung mit React, React Native und/oder Ruby on Rails\n    Versierte Kenntnisse zu Git-basierten Workflows mit automatisierten Builds (CI/CD), DevOps inkl. Docker & nginx, Prozesse, Werkzeuge und Methoden der agilen Entwicklung (Scrum, Kanban, Jira, etc.)\n    Außergewöhnliche Ideen sowie den Mut neue und unkonventionelle Wege zu gehen\n    Gute Englischkenntnisse\n",
+		"skillList": "react, typescript, vue, angular, svelte, stencil",
+		"publicationDate": "2023-01-26"
+	},
+	{
+		"id": 60,
+		"title": "Frontend Entwickler",
+		"company": "Deutsche Rentenversicherung Bund",
+		"url": "https://www.get-in-it.de/jobsuche/p211755",
+		"description": "Für unsere Stabsstelle Digitalstrategie und digitale Transformation\nsuchen wir zum nächstmöglichen Zeitpunkt ein/e\nOrt: Berlin Verwaltungsstandort\nBewerbungsfrist: 16.02.2023\nBeschäftigung: Vollzeit (Teilzeit ist möglich)\nunbefristet\nEintrittsdatum: zum nächstmöglichen Zeitpunkt/\ngenauer Termin\nAusschreibungsnummer: S5-003-2023\nVergütung: Entgeltgruppe x10TV Entg0 DRV\nFrontend - Entwickler*in (m/w/div)\nTätigkeitsbereich\nDas Team Online-Agentur verantwortet die Online-Dienste für\nPrivatkunden und verfolgt das Ziel, die Kernleistungen für diese\nZielgruppe zu digitalisieren. Das machen wir „Ende-zu-Ende“, in\nträgerübergreifenden Teams, nutzerzentriert und auf Basis moderner\nTechnologien. Um diesem Auftrag erfolgreich nachzukommen, sind wir\nauf der Suche nach neuen Talenten, die unsere Leidenschaft für die\ndigitale Verwaltung, Gov- Tech, Nutzerzentrierung, agiles Arbeiten und\ndie Digitalisierung von Prozessen teilen. Gemeinsam gelingt es uns,\neinfache, nutzerfreundliche und relevante Online-Services für unsere\nKund*innen anzubieten und zum Beispiel das „Kundenportal“ (Mein\npersönlicher Bereich) oder den „Rentenantrag online“ zum „neuen\nNormal“ zu etablieren.\nIhr Aufgabenbereich\n> Sie betreuen und/oder bearbeiten Entwicklungsvorhaben im Bereich\nder Online-Dienste.\n> Dafür analysieren, bewerten und konkretisieren Sie komplexe\nfachliche Kundenanforderungen und beraten die entsprechenden\nFachabteilungen.\n> Sie entwickeln zudem unsere bereits vorhandenen digitalen\nAnwendungen für Kund*innen und Mitarbeiter*innen weiter und\nprüfen Optimierungspotenziale, um die Nutzerfreundlichkeit zu\nerhöhen.\n> Sie bearbeiten sowohl interdisziplinäre als auch\nträgerübergreifende agile Projekte mit dem Fokus, die moderne\nEntwicklung der Online-Dienste voranzutreiben\nIhr Profil\n> Sie haben ein Studium im Bereich der Informatik erfolgreich\nabgeschlossen und konnten bereits erste relevante\nBerufserfahrungen sammeln.\n> Alternativ verfügen Sie über eine erfolgreich abgeschlossene\nBerufsaus-, Fort-oder Weiterbildung im IT-Bereich, gepaart mit\nerster aufgabenrelevanter Berufserfahrung.\n> Sie verfügen über erste aufgabenrelevante Erfahrungen\nim Frontend-Bereich, wie beispielsweise Java, JavaScript,\nTypeScript, HTML (5) sowie XML, JSON und Kenntnisse in\nSourceverwaltungssystemen (zum Beispiel Git).\n> Wünschenswert sind zudem erste Erfahrungen im\nProjektmanagement, in der digitalen Produktentwicklung oder in\nagilen Softwareentwicklungen (Scrum).\n> Idealerweise haben Sie bereits Erfahrung in der Arbeit in\ninterdisziplinären Teams gesammelt.",
+		"skillList": "typescript, xml, json, java, git, scrum",
+		"publicationDate": "2023-01-27"
+	},
+	{
+		"id": 61,
+		"title": "Frontend Entwickler",
+		"company": "Capco",
+		"url": "https://www.get-in-it.de/jobsuche/p212092",
+		"description": "Deine Aufgaben\n\n    Du entwickelst Benutzeroberflächen unter Verwendung von HTML-, CSS- und JavaScript-Bibliotheken\n    Du erstellst Single-Page-Anwendungen mit Lazy-Loading-Funktionen unter Verwendung moderner komponentenbasierter Frameworks wie Angular, React und Vue\n    Du entwickelst native oder hybride mobile Anwendungen mit Ionic oder React Native für Mobilgeräte\n    Du übersetzt UI/UX-Designs und Wireframes mit hoher Wiedergabetreue in funktionale Webseiten, indem Du eine Kombination aus Markup- und Vorlagensprachen verwendest\n    Du erstellst Cascading Style Sheets (CSS), die über alle Browser und Plattformen hinweg konsistent sind, indem Bootstrap oder andere Frameworks verwendet werden\n    Du erkennst und verstehst ansprechendes Webdesign, um Layouts zu erstellen, die auf einer Vielzahl von Geräten (Handy, Tablet, Laptop, PC) angemessen gerendert werden\n    Du erstellst neue Funktionen in PHP (unter Verwendung des Laravel- oder Yii2-Frameworks)\n    Du erhältst regelmäßig Konfigurationsaufgaben\n    Zu Deinen Aufgaben gehören Änderungsanforderungen / Fehleranalyse\n\nDein Profil\n\n    Du verfügst über eine Ausbildung zum Fachinformatiker für Anwendungsentwicklung, hast ein paar Semester Informatik studiert oder eine vergleichbare Qualifikation\n    Du hast praktische Erfahrung in der Programmierung von Angular, TypeScript, HTML, CSS, Java Script sowie im UI Design und Erfahrung mit SQL-Datenbanken (MySQL, PostgreSQL),\n    Du verfügst über ein gutes Verständnis der objektorientierten Programmierung in PHP\n    Du hast Erfahrung mit Versionskontrolle, vorzugsweise Git sowie Erfahrung im Aufbau von REST-APIs\n    Deine zusätzlichen Agile/Scrum-Erfahrungen werden sehr geschätzt\n    Du besitzt eine gute Auffassungsgabe und ein ausgeprägtes analytisches Verständnis\n    Du bist es gewohnt, Deine Aufgaben eigenständig, termingerecht und in hoher Qualität zu erledigen\n    Du bist bereit, stets Neues zu erlernen\n    Deine fließenden Deutschkenntnisse runden Dein Profil ab\n\nBewirb Dich jetzt! Dauert nur 5 Min. Versprochen!\n\n*(m/w/d): Wichtig ist nur, dass wir zueinander passen #beyourselfatwork",
+		"skillList": "react, angular, vue, ioniccordova, reactnative, ux, bootstrap, php, laravel, yii",
+		"publicationDate": "2023-01-28"
+	},
+	{
+		"id": 62,
+		"title": "Frontend Entwickler",
+		"company": "it-economics",
+		"url": "https://www.get-in-it.de/jobsuche/p177655",
+		"description": "Deine Aufgaben\n\n    Du entwickelst nach dem Clean Code Ansatz mit Javascript, React oder Angular\n    Du erstellst automatisierte Tests mit hohen Qualitätsansprüchen\n    Du übernimmst Aufgaben mit Java Anwendungen, Spring Boot und REST Services sind Teil Deines Alltags\n    Du agierst als beratende:r Entwickler:in auf Augenhöhe mit unseren Kunden\n    Du bist fester Bestandteil Deines Teams und entwickelst Dich kontinuierlich weiter\n\nDas bringst du mit\n\n    Du bringst ein abgeschlossenes Studium oder eine vergleichbare Ausbildung mit\n    Du hast Erfahrung in der Web-Entwicklung auf Basis von JavaScript\n    Du brennst für Cloud Native Entwicklung\n    Du übernimmst Verantwortung für Deinen Code und entwickelst ihn mit Stolz\n    Du hast verhandlungssichere Deutsch- und Englischkenntnisse\n    Du hast den Anspruch, Dich stets zu verbessern und weiterzuentwickeln",
+		"skillList": "react, angular, testing, java, springboot, rest, cleancode",
+		"publicationDate": "2023-01-29"
+	},
+	{
+		"id": 63,
+		"title": "Frontend Softwareentwickler",
+		"company": "msg DAVID GmbH",
+		"url": "https://www.get-in-it.de/jobsuche/p193545",
+		"description": "Deine Aufgaben\n\nDie Programmierung von Benutzeroberflächen mit Webtechnologien weckt dein Interesse? Bei uns bist du als Teil eines unserer agilen Softwareentwicklungsteam für die eigenverantwortliche Konzeption, Gestaltung und Umsetzung von Web- oder Desktopanwendungen zuständig, die unsere Kund:innen begeistern. Klingt gut? Dann werde Teil der msg DAVID Familie und übernimm die folgenden Aufgaben:\n\n    Entwicklung von webbasierten Anwendungen unter Einsatz moderner Frontendtechnologien in einem agilen Entwicklungsteam\n    Design und Implementierung von grafischen Benutzeroberflächen in Zusammenarbeit mit unserem UX-Team\n    Konzeption, Pflege sowie Weiterentwicklung von Architektur und Design\n    Abschätzung und Evaluierung von Kunden- und Produktanforderungen\n    Einsatz und Erweiterung unseres Technologiestacks\n\nDein Profil\n\n    Du bringst mehrjährige Berufserfahrung mit den gängigen Webtechnologien und Frameworks (wie bspw. Javascript/Typescript, Angular, React, Vue.js, HTML5 oder CSS3) mit\n    Du besitzt Kenntnisse im Umgang mit Schnittstellen, wie bspw. REST oder GraphQL\n    Idealerweise bringst du auch Erfahrung in der Frontend-​Testautomatisierung (z.B. Jasmine/Karma) mit\n    Du hast Spaß und Interesse an der Gestaltung von Benutzeroberflächen, Usability, sowie ein hohes Maß an Qualitätsbewusstsein\n    Du kommunizierst sicher in Deutsch und Englisch",
+		"skillList": "react, angular, vue, typescript, rest, graphql, testing, jasmine, karma",
+		"publicationDate": "2023-01-30"
+	},
+	{
+		"id": 64,
+		"title": "Frontend Software Engineer",
+		"company": "Prodyna",
+		"url": "https://www.get-in-it.de/jobsuche/p29490",
+		"description": "Deine Aufgaben\n\n    Du designst und entwickelst moderne Webapplikationen in einem agilen Umfeld\n    Zudem übernimmst du das Deployment der Applikationen in der Cloud\n    Du unterstützt bei technologisch herausfordernden Projekten, bist Teil eines agilen Teams und übernimmst Verantwortung für deinen Aufgabenbereich\n    Abschließend arbeitest du mit unseren Communication Designern, Software Engineers und Ansprechpartnern auf Kundenseite zusammen\n\nDein Profil\n\n    Du hast erste Erfahrung in der Frontend Entwicklung und kennst dich mit Technologien wie JavaScript, TypeScript sowie Angular, React und Vue.js aus\n    Du bist in der Lage Vorgaben vom UX/UI Team umzusetzen\n    Du kennst dich mit der Integration von (REST) Schnittstellen in Frontends aus\n    Du kannst dich in Deutsch und Englisch fließend verständigen und findest Dich in agilen Teams zurecht\n    Nice-to-have: Du kennst dich mit React Native, Ionic, Cordova, Nativescript und/oder Flutter aus",
+		"skillList": "react, angular, vue, typescript, rest, reactnative, ioniccordova, nativescript, flutter",
+		"publicationDate": "2023-01-31"
+	},
+	{
+		"id": 65,
+		"title": "Full-Stack Webentwickler",
+		"company": "Endress+Hauser Conducta GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Full-Stack-Webentwickler-JavaScript-React-Java-w-m-d-Gerlingen-bei-Stuttgart-Endress-Hauser-Conducta-GmbH-Co-KG--9162014-inline.html?rltr=2_2_25_seorl_m_0_0_0_0_0_0",
+		"description": "Aufgabe + Herausforderungen\n\nSchlägt Ihr Herz für die Softwareentwicklung mit JavaScript? Dann sind Sie bei uns als Full-Stack Webentwickler richtig, um auch in Zukunft den Erfolg unserer Messgeräte zur Flüssigkeitsanalyse zu sichern! Sie nutzen bei uns Ihre Fähigkeiten um im agilen Prozess als Teil eines Developer Teams unser MES und die Support Systeme weiterzuentwickeln.\n\n    Verantwortung übernehmen: Sie sind für die Konzeption und Entwicklung produktionsnaher Webanwendungen in JavaScript / react verantwortlich. Darüber hinaus unterstützen Sie bei der Weiterentwicklung der Backend-Systeme in Java. Neben dem Backlog zur strukturierten Weiterentwicklung unserer Produktionssteuerung werden über ein Ticketingsystem auch Vorfälle aus der laufenden Produktion eingesteuert und abgearbeitet.\n    Teamplayer: Sie arbeiten in einem Team mit hohen Qualitätsansprüchen, in dem automatisiertes Testen und weitere Maßnahmen zur Qualitätssicherung fest in den Entwicklungszyklus integriert sind.\n    Abwechslungsreiche Aufgaben: Neben dem operativen Tagesgeschäft scouten Sie neue Technologien und überlegen gemeinsam im Team, ob und wie wir diese gewinnbringend einsetzen können.\n\nQualifikation + Profil\n\n    Ausbildung: Erfolgreich abgeschlossenes, technisch orientiertes Hochschulstudium oder eine vergleichbare Ausbildung.\n    Erfahrung: Sie konnten bereits Erfahrung in der Softwareentwicklung mit JavaScript bestenfalls unter Anwendung des React-Frameworks sammeln und haben Interesse auch Kenntnisse in Java aufzubauen. Ihre Leidenschaft liegt in der Frontend Softwareentwicklung, Sie haben aber Interesse im Sinne eines Full Stack Ansatzes auch den Code des Backends zu verstehen und weiter zu entwickeln.\n    Persönlichkeit: Sie sind offen für agile Arbeitsweisen und arbeiten transparent und konstruktiv im Team. Sie sind neugierig und haben Spaß an der Arbeit mit neuen Technologien und setzen diese pragmatisch ein. Zudem haben Sie Interesse daran, industrielle Produktionsprozesse zu verstehen.\n    Sprachen: Ihre verhandlungssicheren Deutschkenntnisse in Wort und Schrift werden durch gute Englischkenntnisse ergänzt.\n\n",
+		"skillList": "react, java",
+		"publicationDate": "2023-02-01"
+	},
+	{
+		"id": 66,
+		"title": "Frontend-Entwickler",
+		"company": "Steuerbot GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Frontend-Entwickler-in-React-React-Native-Start-up-in-Stuttgart-Fellbach-Steuerbot-GmbH--9109930-inline.html?rltr=6_6_25_seorl_m_0_0_0_0_1_0",
+		"description": "Deine Aufgaben 👩‍💻\n\nAls Frontend-Entwickler:in spielst du eine entscheidende Rolle bei der Weiterentwicklung der Steuerbot-Apps für iOS, Android und Web. Mit deinen Fähigkeiten hilfst du, das komplexe Thema Steuern, durch innovative und spielerische Apps, vollkommen neuen Zielgruppen zugänglich zu machen.\n\nDazu wirst du:\n\n    Eigenständig neue Features für unsere iOS-, Android- und Web-Apps entwickeln.\n    Eng mit unseren Produkt-, Backend- und Design-Teams zusammenarbeiten, um neue Funktionen zu definieren, entwerfen und umzusetzen.\n    Die Optimierung, Pflege und Wartung bestehender Strukturen in einer React / React Native Architektur übernehmen.\n    Ganzheitlich, kreativ Denken, um unseren Nutzern die bestmögliche Erfahrung zu bieten.\n    Die Möglichkeit haben, bei der Entwicklung ganz neuer Produkte und Features von Anfang an involviert zu sein und einen großen Beitrag zu leisten.\n\nDas beschreibt dich 🙋‍♂️\n\n    Du hast Erfahrungen und/oder großes Interesse an der Entwicklung von Apps.\n    Idealerweise hast du Übung mit React / React Native, oder alternativ Kenntnisse in der Entwicklung von nativen iOS/Android Apps oder in anderen Frameworks wie Angular oder Vue.JS im Web.\n    Know-how in einer relevanten Programmiersprache: JavaScript/Typescript, Swift, Objective-C, Java, Kotlin.\n    Du legst viel Wert auf eine gute Usability und User Experience.\n    Du hast Lust ein wichtiges Familienmitglied zu werden und hast Freude am Arbeiten in einem kleinen, sehr effizienten Team.\n\n",
+		"skillList": "react, reactnative, angular, vue, typescript, swift, objectivec, java, kotlin",
+		"publicationDate": "2023-02-02"
+	},
+	{
+		"id": 67,
+		"title": "Full Stack Webentwickler",
+		"company": "DPS Engineering",
+		"url": "https://www.get-in-it.de/jobsuche/p210512",
+		"description": "Deine Aufgaben\n\n    Teamgeist: Du bist Teil eines agilen Teams aus Technikern (m/w/d) und Business Analysten (m/w/d), das die Plattform und die Nutzerschnittstellen (Web & mobile) konzipiert und umsetzt.\n    Hands-on: Du programmierst eigenverantwortlich Softwarekomponenten im Frontend und Backend und übernimmst die über das Coding hinausgehenden Aufgaben eines Entwicklers (m/w/d) wie Test, Dokumentation etc.\n    Den User im Blick: Du gestaltest Oberflächen und Abläufe, stimmst diese mit internen und externen Stakeholdern ab und bringst Deine Expertise in kreative Prozesse wie Design Thinking ein.\n    Am Puls der Zeit: Du unterstützt das Team bei der Auswahl von Tools und Methoden, gestaltest Architekturen und Technologie-Patterns und sorgst gemeinsam mit Deinen Kollegen (m/w/d) dafür, dass wir mit allem, was wir tun, auf der Höhe der Zeit sind.\n    Verantwortung reizt Dich: Du arbeitest eng mit den Gründern zusammen und leistest als unverzichtbarer Teil des Teams einen Beitrag, digitale Weinberatung in der Gastronomie möglich zu machen.\n\nDein Profil\n\nDu bist ein Vollblut-Techie (m/w/d) mit einiger Erfahrung im Bereich Webentwicklung. Ideal sind\n\n    Praktische Erfahrungen im Bereich der Frontend-Entwicklung mit modernen Webtechnologien (HTML, CSS, Javascript), SPA-Frameworks (insbesondere React.js) und Progressive Web Apps (PWAs).\n    Kenntnisse der Backend-Entwicklung in Javascript bzw. Typescript mit Node.js (z.B. mit Nest.js) und gängigen Datenbanken (insbesondere PostgreSQL und Mongo DB)\n    Vertrautheit mit einschlägigen Konzepten wie Microservice-Architekturen und REST-Schnittstellen\n    Sicherer Umgang in der Versionsverwaltung mit Git und Erfahrungen im Bereich CI/CD mit Github oder Gitlab\n    Kenntnisse von Containerisierung und dem Betrieb von Anwendungen im Cloud-Umfeld (z. B. AWS) gerne auch mit Serverless-Computing-Ansätzen.\n    Bereitschaft Betriebsverantwortung im Sinne des DevOps zu übernehmen – „You build it, you run it“",
+		"skillList": "react, pwa, typescript, node, nestjs, postgres, mongodb, microservices, rest, git, cicd, gitlab, docker, aws, testing",
+		"publicationDate": "2023-02-03"
+	},
+	{
+		"id": 68,
+		"title": "Frontend Entwickler",
+		"company": "Materna",
+		"url": "https://www.get-in-it.de/jobsuche/p213098",
+		"description": "Als TypeScript / React Frontend Entwickler bei Materna\n\n    unterstützt du uns bei der Entwicklung von React-Frontends in Fachanwendungen und der Anbindung an das Java Backend über REST-API.\n    verantwortest du den Aufbau und die Weiterentwicklung in der React-Komponentenbibliothek.\n    begleitest du die Entwicklung, Integration, Optimierung und Betreuung von Software-Lösungen, unter Analyse der Anforderungen und Abstimmung mit den internen und externen Stakeholdern hinsichtlich Realisierbarkeit.\n    konzipierst und steuerst du agil den gesamten Entwicklungsprozess interaktiver Webanwendungen mit modernen TypeScript-Frameworks.\n    optimierst du Weboberflächen hinsichtlich relevanter Faktoren wie der Usability und Barrierefreiheit (BITV).\n    übernimmst du eine Mentorenrolle für unsere Junioren zur Sicherstellung des Wissenstransfers und der Weiterentwicklung unserer Teams.\n    verfolgst du die neusten Technologietrends und bewertest deren Anwendbarkeit.\n\nDas bringst du mit\n\n    Abgeschlossenes Studium der (Wirtschafts-) Informatik oder eine vergleichbare Ausbildung\n    Mehrjährige Berufserfahrung in der Softwareentwicklung – insbesondere im Umgang mit modernen Web-Frameworks wie React\n    Erfahrung in der Durchführung von Unit- und Oberflächen-Tests sowie in der Erstellung von React CI/CD-Pipelines\n    Sehr gute Kenntnisse in der Entwicklung von Web-Applikationen in JavaScript (ES6), TypeScript, React, JSX/TSX und State Management mit Hooks\n    Erfahrung mit REST-APIs und HTML5 / CSS3 (SASS)\n    Fundierte Kenntnisse im Umgang mit gängigen Build-Tools (z.B. Webpack, Grunt), NPM, GIT, JIRA, Confluence und Jenkins\n    Sehr gute Deutsch- und gute Englischkenntnisse in Wort und Schrift\n\nIn spannenden Kunden- oder Entwicklungsprojekten können Sie Ihre Potenziale entfalten und entwickeln, unterstützt durch vielfältige Weiterbildungsmöglichkeiten. Zu uns passen Menschen, die Verantwortung übernehmen und ein kollegiales Umfeld schätzen.",
+		"skillList": "react, typescript, rest, sass, testing, webpack, grunt, git, cicd, jira, confluence, jenkins",
+		"publicationDate": "2023-02-04"
+	},
+	{
+		"id": 69,
+		"title": "Junior Software Developer Frontend",
+		"company": "i22 Digitalagentur",
+		"url": "https://www.get-in-it.de/jobsuche/p180090",
+		"description": "Deine Aufgaben\n\n    Du entwickelst einzelne Web-Komponenten und responsive Websites, und das vorrangig in React. Dabei achtest du auf Clean Code und ein hohes Maß an Qualität\n    Du setzt die Layouts des Designs um und schubst die Pixel so lange, bis alles funktioniert\n    Du übernimmst die Pflege bestehender Websites und überführst bei Bedarf auch ältere Projekte in einen moderneren Tech-Stack\n    Du arbeitest mit einer wachsenden Komponenten-Bibliothek und hältst dabei stets geltende Styleguides sowie das Corporate Design ein\n\nDein Profil\n\n    Du bist ambitionierte*r Coder*in und hast ein Studium, z. B. der Informatik, oder eine vergleichbare Ausbildung erfolgreich abgeschlossen\n    Du gehst sicher mit HTML und (S)CSS/SASS um, hast solide Grundkenntnisse in JS und hattest idealerweise auch erste Berührungspunkte mit React\n    Du behältst auch in turbulenten Phasen stets den Überblick und bist im Denken und Handeln in hohem Maß flexibel\n    Du kennst dich idealerweise in Bereichen aus, die dem Frontend nahestehen, z. B. SEO und UX. Auch das Konzept eines Content-Management-Systems ist dir nicht fremd\n    Du begeisterst dich für neue Technologien und aktuelle E-Commerce-Trends und entwickelst deine Skills gerne weiter, um in deinem Arbeitsfeld langfristig bestehen zu können\n    Du nennst dich Teamplayer*in und bringst dich proaktiv ein. Durch offene Kommunikation und deine freundliche Art trägst du zu einem entspannten Arbeitsklima bei",
+		"skillList": "react, vue, nuxt, node, typescript, jest, symfony, twig",
+		"publicationDate": "2023-02-05"
+	},
+	{
+		"id": 70,
+		"title": "Frontend Developer",
+		"company": "Debeka Gruppe",
+		"url": "https://www.get-in-it.de/jobsuche/p205397",
+		"description": "Ihr Beitrag für das WIR\n\n    Entwicklung von Frontends für Kundenanwendungen (Digitale Services, Debeka.de, Kunden-portal) auf Basis gängiger und moderner Web-Technologien (derzeit primär Angular / REST)\n    stetige Weiterentwicklung der bestehenden Frontend-Architektur\n    Verwendung und Ausbau des CI/CD-Software-Entwicklungsprozesses inkl. Code-Reviews, Security-Tests, automatisierten Tests, etc.\n    Entwicklung von Anwendungen mit hohen Anforderungen bzgl. IT-Security und Test-Automatisierung\n\nDas wünschen wir uns\n\n    abgeschlossenes Studium/Ausbildung mit IT-Bezug oder eine vergleichbare Qualifikation\n    Erfahrung in Basis-Technologien und Konzepten aus dem Bereich der Web-Entwicklung, wie z.B. HTML5, HTTP, CSS, JavaScript bzw. TypeScript\n    Kenntnisse von CI/CD-Prozessen und Versionsverwaltungssystemen (git / SVN), Kenntnisse über Mono-Repos von Vorteil\n    Umsetzung von Layout- und Designvorgaben mit CSS/SASS\n    Interesse und Lernbereitschaft für den Einsatz neuer Technologien und Methoden\n    Lust am Arbeiten in interdisziplinären Teams\n    eigenverantwortliches und selbstständiges Arbeiten\n    Erfahrung mit agilen Arbeitsmethoden von Vorteil",
+		"skillList": "angular, typescript, testing, cicd, git, svn, monorepos, sass",
+		"publicationDate": "2023-02-06"
+	},
+	{
+		"id": 71,
+		"title": "Front-End Developer",
+		"company": "REWE Digital",
+		"url": "https://www.get-in-it.de/jobsuche/p202275",
+		"description": "Deine Aufgaben\n\n    Beteiligung an der Paymenttools-Produktentwicklung von Planung bis Betrieb\n    Neu- und Weiterentwicklung verschiedener Java/JavaScript-basierten Webanwendungen\n    Implementierung von Frontends in microservice-basierten Umgebungen\n    Automation von Unit-, Komponenten-, System- und Oberflächentests\n    Continuous Deployment und Betrieb der eigenen Services\n    Mitwirkung bei der Gestaltung von Softwarearchitekturen und der Auswahl von Technologien\n    Aktive Teilnahme an agilen Arbeitsprozessen\n    Beteiligung an firmeninternen und -externen Expertennetzwerken\n\nDeine Erfahrungen\n\n    Du liebst das Frontend und die Zusammenarbeit mit UI-Designer:innen\n    Tiefgehende Kenntnisse in der Umsetzung von User Interfaces in HTML, CSS und Javascript\n    Sehr gute Kenntnisse in der Entwicklung mit einem gängigen Frontend Framework wie React, Angular, Vue etc.\n    Erfahrung mit Testautomatisierung\n    Sehr gute Kenntnisse mit modernen Build Tools wie z.B. Webpack oder Rollup\n    Gute Kenntnisse in einer weiteren Programmiersprache wie Java, Kotlin, Scala, Go\n    Idealerweise Erfahrungen im Bereich Micro Services/Micro Frontends\n    Ein Plus sind Erfahrungen mit automatisierten Build Pipelines (Jenkins, Github Actions, CircleCI)\n    Erfahrung in der agilen Softwareentwicklung\n    Teamfähigkeit, Kreativität, Pragmatik und Neugier\n    Arbeite vor Ort an einem unserer Standorte oder remote aus der gesamten EU, gerne unterstützen wir Dich bei der Relocation\n    Du verfügst über sehr gute Englischkenntnisse",
+		"skillList": "react, angular, vue, testing, webpack, rollup, java, kotlin, scala, go, microservices, microfrontends, jenkins, githubactions, circleci",
+		"publicationDate": "2023-02-07"
+	},
+	{
+		"id": 72,
+		"title": "Frontend Developer",
+		"company": "queo GmbH",
+		"url": "https://www.get-in-it.de/jobsuche/p48704",
+		"description": "Deine Aufgaben und Projekte\n\n    Konzeption und Umsetzung anspruchsvoller Webclient-Anwendungen für Individualsoftware auf Basis von Angular, React oder Vue.js\n    Erstellung und Umsetzung von Schnittstellenbeschreibungen und Integrationskonzepten in Zusammenarbeit mit unseren Java- und C#-Fachbereichen\n    Qualitätssicherung der Ergebnisse durch automatisierte Modul- und Oberflächentests sowie regelmäßige Code Reviews\n    perspektivisch Verantwortung für den Aufbau des Fachbereichs FrontEnd-Entwicklung bei queo/software\n\nDeine Stärken\n\n    Know-how aus dem abgeschlossenen Studium der Informatik bzw. vergleichbarer Studiengänge oder mehrjährige Berufserfahrung im Frontend Development\n    Kenntnisse in den Bereichen HTML/HTML5, CSS und JavaScript\n    praktische Erfahrung in der Entwicklung automatisierter Tests\n    Erfahrungen mit CSS Frameworks (Bootstrap, Material Design) und JavaScript Frameworks (Angular, React und/oder Vue.js) wünschenswert\n    Erfahrungen in der Konzeption, Architektur und Entwicklung von FrontEnds verteilter Web-Anwendungen von Vorteil\n    Erfahrungen in der Konzeption von microservice- und serviceorientierten Architekturen wünschenswert\n    Teamgeist und Freude an gegenseitiger Unterstützung\n    sehr gute Deutschkenntnisse",
+		"skillList": "react, vue, angular, bootstrap, mui, testing, java, csharp, microservices",
+		"publicationDate": "2023-02-08"
+	},
+	{
+		"id": 73,
+		"title": "Full Stack Developer",
+		"company": "Örag Rechtsschutzversicherungs-AG",
+		"url": "https://www.stepstone.de/stellenangebote--Full-Stack-Developer-m-w-d-inhouse-mit-Schwerpunkt-Javascript-Typescript-Duesseldorf-OERAG-Rechtsschutzversicherungs-AG--8715220-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_1_0",
+		"description": "Das erwartet Sie bei uns:\n\n    Agile Entwicklung neuer Anwendungen unter Verwendung von Managed Services auf Basis moderner Cloud-Technologien \n    Mitarbeit an Serverless/Event-driven -Konzepten und -Architekturen unter Berücksichtigung aktueller, cloud-native Entwicklungs-Standards \n    Umsetzung von responsivem Mobile-first Webdesign\n\n    Frontend-Entwicklung auf der Basis moderner JavaScript- und TypeScript- Frameworks/Plattformen\n\nDas bringen Sie mit:\n\n    Erfolgreich abgeschlossenes Studium (Wirtschaftsinformatik, Informatik, Wirtschaftsingenieurwesen) oder vergleichbare technische Ausbildung mit Berufserfahrung\n    Kenntnisse bei der Verwendung von managed Services in einer public Cloud\n    Gute Kenntnisse moderner Cloud-Technologien und -Standards\n    Kenntnisse in der Backend-Entwicklung mit node.js\n    Moderne Testing Mentalität und Erfahrung im Test Driven Development\n    Expertise bei der Erstellung von responsiven Web-UIs auf Basis von Javascript-Frameworks\n    Agiles Mindset, hohes Qualitätsbewusstsein, Teamplayerqualitäten und Freude daran, Know-how mit Kollegen zu teilen\n    Hohe Motivation an persönlicher Weiterentwicklung und Spaß daran, neue Technologien kennen zu lernen\n    Ausgeprägtes Abstraktionsvermögen, strukturierte Denkweise\n    Sehr gute Deutsch-Kenntnisse in Wort und Schrift, Englisch-Kenntnisse runden ihr Profil ab\n\n",
+		"skillList": "react, vue, angular, typescript, node, cloud, tdd",
+		"publicationDate": "2023-02-09"
+	},
+	{
+		"id": 74,
+		"title": "Software Engineer Frontend",
+		"company": "ITGAIN Consulting",
+		"url": "https://www.get-in-it.de/jobsuche/p184271",
+		"description": "Was dich bei uns erwartet:\n\n    Du arbeitest als Software Engineer Frontend (m/w/d) in der Konzeption und Umsetzung von Frontendkomponenten für unserer Kund:innen.\n    Bei unseren internen Projekten zündest du für neue Ideen und Technologien, fürs Tüfteln, Lernen und Ausprobieren.\n    Du arbeitest im Team mit anderen Kolleg:innen und Kund:innen und spielst Ideen-Ping-Pong mit unseren Mediendesigner:innen und UI/UX Expert:innen.\n    Dabei lebst du mit uns in einer stark ausgeprägten Feedbackkultur und übernimmst auch gern die Betreuung von weniger erfahrenen Kolleg:innen.\n\nWas wir von dir erwarten:\n\n    Du hast mehrjährige Berufserfahrungen in der Softwareentwicklung gesammelt und kannst ein abgeschlossenes Hochschulstudium (Informatik, Wirtschaftsinformatik, Naturwissenschaften) oder eine vergleichbare Ausbildung nachweisen.\n    Du hast tiefere Kenntnisse in der Javascript/TypeScript Welt und kennst die Komponenten, Libraries und Frameworks dieses Ökosystems wie jQuery, Angular, React oder vue.js, bist vertraut mit node.js, npm und hast keine Angst vor (S)CSS oder SASS/LESS.\n    Optimalerweise hast du schon Berührungspunkte mit CI/CD Abläufen und Frontend Testing gehabt in Form von Jenkins, ESLint, Github/Gitlab CI, Cypress, Jest o. ä. Vielleicht kannst du auch schon Wissen über Cloud Entwicklung und Deployment vorweisen.\n    Du bist kundenorientiert, trägst gerne Verantwortung und dich zeichnen proaktives Informations- und Kommunikationsverhalten und Begeisterungsfähigkeit aus.\n    Du überzeugst durch eine strukturierte Arbeitsweise und selbstständiges Arbeiten.",
+		"skillList": "react, angular, vue, typescript, jquery, node, sass, cicd, jenkins, gitlab, cypress, jest, cloud",
+		"publicationDate": "2023-02-10"
+	},
+	{
+		"id": 75,
+		"title": "R&D Frontend Software Entwickler",
+		"company": "IBM Deutschland GmbH",
+		"url": "https://www.get-in-it.de/jobsuche/p214686",
+		"description": "Required Technical and Professional Expertise\n\n    Strong JavaScript knowledge for both front-end and back-end development\n    Experience in one of the UI frameworks: React, Angular, or Vue\n    Proficient in HTML/CSS\n    Creative thinker\n    Possesses excellent communication and collaboration skills\n    Good English and German Skills required\n\nPreferred Technical and Professional Expertise\n\n    Foundation skills in micro frontend development, build and integration (Next.js, webpack, babel, etc.)\n    Knowledge how to use a design system in UI development\n    Writing automated tests using Jest, Puppeteer/Playwright, or similar libraries\n    Cloud development, CI/CD, DevOps\n    IBM Cloud Pak for Data",
+		"skillList": "react, angular, vue, nextjs, webpack, babel, jest, puppeteer, playwright, cloud, cicd, devops",
+		"publicationDate": "2023-02-11"
+	},
+	{
+		"id": 76,
+		"title": "Frontend Developer",
+		"company": "OBI next",
+		"url": "https://www.get-in-it.de/jobsuche/p184980",
+		"description": "Deine Aufgaben\n\n    Du konzipierst und implementierst anspruchsvolle, skalierbare und kundenzentrierte Frontendkomponenten mit modernen Javascript-Frameworks wie vue.js oder React\n    Du erarbeitest skalierbare, zielführende und nachhaltige Softwarearchitekturen zur Operationalisierung komplexer Customer Journeys\n    Du verknüpfst die einzelnen Komponenten unseres Ökosystems zu einer ganzheitlichen und nachhaltigen Gesamtlösung\n    Du begleitest die Produktentwicklung von der Lösungsfindung, über das Release bis hin zum kontinuierlichen Betrieb im ständigen Austausch mit deinem Product Manager oder Product Owner\n    Du hast Spaß an der engen Zusammenarbeit in einem cross-funktionalen Team mit Pairprogramming, Code Reviews und teilst proaktiv dein Wissen und deine Erfahrung (z.B. über Coding Dojos oder Tech Talks ins Team)\n\nDein Profil\n\n    Du hast mehrjährige Berufserfahrung in der Frontend-Entwicklung webbasierter, skalierbarer Systeme und Anwendungen\n    Du hast ein gutes Gespür für Responsive Design unter Berücksichtigung von Geschwindigkeit und Bedienbarkeit\n    Du verfügst über gute Kenntnisse in aktuellen Technologien (z. B. React, Angular und Vue) und konntest bereits erste Erfahrungen bei der Anbindung von Microservices mit Rest sammeln\n    Du hast idealerweise bereits (grundlegende) Kenntnisse in der Entwicklung und der Verzahnung von Self-Contained-Systems sammeln können\n    Du schaust gern über den Tellerrand und bist neben der reinen Frontend-Entwicklung/-Architektur auch an weiteren Themenbereichen (z.B. Backend, DevOps, Prozessoptimierung,…) interessiert",
+		"skillList": "react, angular, vue, rest, microservices, devops",
+		"publicationDate": "2023-02-12"
+	},
+	{
+		"id": 77,
+		"title": "Frontend Entwickler",
+		"company": "Deutsche Bahn",
+		"url": "https://www.get-in-it.de/jobsuche/p174672",
+		"description": "Deine Aufgaben:\n\n    Du analysierst technische Anforderungen und entwickelst agil in interdisziplinären Teams\n    Du berätst Kund:innen und Stakeholder:innen zu Qualitätsstandards und UX von der Angebotsphase bis zur Umsetzung\n    Die Entwicklung und Beratung zu Frontendanwendungen in Enterprise-Projekten unterschiedlichster Größe und Komplexität und übergreifend in Zusammenarbeit mit verteilten oder globalen Entwicklungsteams liegt in deinen Händen\n    Du verantwortest die eigenständige Umsetzung von Softwarelösungen sowie Standards der Barrierefreiheit und hast Termine, Qualität und den Rahmen des bereitgestellten Budgets stets im Blick\n    Die Sicherstellung einer hohen Standardisierung und Wiederverwendbarkeit deiner Lösungen sowie kontinuierliche Steuerung der Softwarequalität ist dir wichtig\n    Du nutzt unsere flexible und selbstorganisierte Arbeitsweise für deine persönliche Entwicklung im Team und zur Erweiterung deiner technischen Expertise gestaltest du die Zusammenarbeit aktiv mit\n\nDein Profil:\n\n    Ein abgeschlossenes Hochschul-/Fachhochschulstudium im Bereich (Wirtschafts-) Informatik oder eine vergleichbare Qualifikation bringst du mit\n    Als Frontend-Entwickler:in bringst du mehrere Jahre an Erfahrung mit und bist vertraut mit verschiedenen JavaScript-Frameworks (Angular, Vue.js) sowie Testing-Frameworks (Jest, Cypress) und hast ein tiefes Verständnis für A11y (Accessibility)\n    Du hast Interesse daran, Neues zu erlernen und schreckst nicht davor zurück, neue Programmiersprachen, Technologien und Methoden kennenzulernen\n    Verhandlungssichere Deutsch- und Englischkenntnisse in Wort und Schrift runden dein Profil ab\n    Du bist Macher:in und Teamplayer:in mit Kooperations-, Konflikt- und Begeisterungsfähigkeit",
+		"skillList": "vue, angular, jest, cypress",
+		"publicationDate": "2023-02-13"
+	},
+	{
+		"id": 78,
+		"title": "Web-Devloper",
+		"company": "Bartels-Langness mbH",
+		"url": "https://www.get-in-it.de/jobsuche/p143701",
+		"description": "Ihre Aufgaben\n\n    Sie entwickeln moderne Web Applikationen und innovative App Lösungen\n    Als begeisterter Fullstack - Entwickler, der sich in der Javascript Welt zu Hause fühlt, unterstützen sie sowohl im Front- als auch im Backend\n    Gemeinsam mit ihren agilen Teamkollegen integrieren sie neue Anwendungen in die bestehende Architektur\n    Zudem entwickeln sie bestehende Anwendungen weiter und konzipieren moderne Web-Applikationen\n    Die Optimierung der Anwendungen für die Performance und UI/UX werden gemeinsam mit Ihnen und unseren Fachteams weiterentwickelt\n\nIhr Profil\n\n    Sie haben ein Studium oder eine Berufsausbildung im Bereich Informatik, Elektrotechnik, Mathematik oder Physik absolviert. Aber auch motivierte Quereinsteiger mit guten Programmierkenntnissen sind bei uns willkommen\n    Sie verfügen über Kenntnisse von JavaScript, HTML 5 und CSS 3 sowie Erfahrung mit mindestens einem aktuellen JS-Framework (Angular, React) oder mit Node.js, sowie mit git\n    Ihre ausgeprägte Begeisterung für moderne Webanwendungen, Spaß an der Arbeit in agilen Projekten, technische Affinität und Teamfähigkeit zeichnen Sie aus",
+		"skillList": "react, angular, node, ux",
+		"publicationDate": "2023-02-14"
+	},
+	{
+		"id": 79,
+		"title": "Softwareentwickler",
+		"company": "Verband der Ersatzkasse",
+		"url": "https://www.stepstone.de/stellenangebote--Softwareentwickler-C-VBA-m-w-d-Berlin-Verband-der-Ersatzkassen-e-V-vdek--9166503-inline.html?rltr=1_1_25_seorl_m_0_0_0_0_0_0",
+		"description": "Das sind Ihre Aufgaben\n\n    Weiterentwicklung unserer Software zur Unterstützung von Krankenhaus­budget­verhandlungen\n    Programmierung in C# auf Basis des .NET Frameworks sowie der dazugehörigen Excel-Module in VBA\n    Begleitung des gesamten Prozesses von der Anforderung über die Entwicklung bis hin zur Qualitätssicherung\n    Unterstützung bei der Durchführung der Anforderungsanalyse, Erstellung von Fachkonzepten und Dokumentationen\n    Zusammenarbeit und Abstimmung mit den Mitgliedskassen des vdek\n\nWas Sie mitbringen\n\n    Sie haben ein erfolgreich abgeschlossenes Studium im Bereich Informatik, Wirtschafts- oder Medizininformatik oder eine vergleichbare Qualifikation.\n    Sie haben fundierte Kenntnisse in der Programmierung unter C# und VBA und verfügen über Erfahrung in SQL.\n    Sie bringen Erfahrungen im Bereich der Softwarearchitektur und einen sicheren Umgang mit MS Visual Studio, Microsoft Excel und GIT mit.\n    Sie haben die Bereitschaft, sich in gesundheitsökonomische Fragestellungen einzuarbeiten.\n    Sie verfügen über eine analytische, strukturierte und selbstständige Arbeitsweise und zeichnen sich durch Teamgeist aus.\n\n",
+		"skillList": "csharp, vba, visualstudio, sql",
+		"publicationDate": "2023-02-15"
+	},
+	{
+		"id": 80,
+		"title": "Software Engineer",
+		"company": "Reply Deutschland SE",
+		"url": "https://www.get-in-it.de/jobsuche/p142823",
+		"description": "Aufgaben\n\n    Als Teil unseres agilen Teams entwickelst du Web-Anwendungen mit JavaScript/Typescript und React oder anderen modernen Web Frameworks wie Angular oder Vue\n    Dabei ist UI und UX Design nicht fester Bestandteil deines Jobs, aber du bist mit dem Thema vertraut\n    Du nimmst an regelmäßigen Meetings mit deinem Team und dem Kunden teil und lernst die Requirements und Restriktionen des Kunden kennen und verstehen\n    Du beschäftigst dich gerne mit neuen Technologien und beim Start eines neuen Projektes bringst du deine Ideen aktiv ein\n    Zusammen mit deinem Ansprechpartner arbeitest du in regelmäßigen Abständen ein T-Shape Profil aus, dass dir hilft dich gezielt weiter zu entwickeln\n\nQualifikationen\n\n    Wir freuen uns auf dein erfolgreich abgeschlossenen Studium in der (Wirtschafts-) Informatik, Mathematik oder einer ähnlichen Fachrichtung\n    Solides Java-Script Wissen ist die Basis und idealerweise bist du auch mit Typescript vertraut\n    Du beherrscht nicht nur React, sondern auch das Ökosystem mit gängigen Ergänzungen wie Redux\n    Praktische Erfahrung mit agilen Entwicklungsmethoden wie Scrum, Kanban, XP, TDD sind von Vorteil\n    Gute Kommunikations- und Präsentationsfähigkeiten in Deutsch und Englisch runden dein Profil ab",
+		"skillList": "react, angular, vue, typescript, redux, tdd",
+		"publicationDate": "2023-02-16"
+	},
+	{
+		"id": 81,
+		"title": "Full Stack Entwickler",
+		"company": "Haufe Group",
+		"url": "https://www.jobware.de/job/full-stack-entwickler-in-java-javascript-react-w-d-m.1091145885.html",
+		"description": "\nWas du mitbringen solltest:\n\n    Du hast bereits mehrere Jahre Erfahrung mit Java und JavaScript, aber vor Allem hast Du Spaß an der Entwicklung und Konzeption sowohl im Backend als auch im Frontend\n    Du kennst dich mit REST-Schnittstellen/Public APIs, AWS, Spring, Angular, Node.JS und Docker aus\n    Du brennst für agile Softwareentwicklung nach Scrum und kannst dich in unserer iterativen Vorgehensweise gut zurecht finden\n    Teamwork, Verantwortung übernehmen und Anpacken sind für Dich selbstverständlich\n    Du beherrscht die Deutsche Sprache in Wort und Schrift\n\n",
+		"skillList": "react, angular, node, rest, java, springboot, aws, docker",
+		"publicationDate": "2023-02-17"
+	},
+	{
+		"id": 82,
+		"title": "Frontend Developer",
+		"company": "Seitenbau GmbH",
+		"url": "https://www.jobware.de/job/frontend-developer-m-w-d-konstanz-oder-remote.1094716065.html",
+		"description": "Deine Aufgaben\n\n    Als Bestandteil eines crossfunktio­nalen Teams arbeitest du Hand in Hand mit Designer*innen und Backend Entwickler*innen\n    Du entwickelst und konzeptionierst webbasierte Benutzeroberflächen mit modernen Web­technologien für den öffentlichen Sektor\n    Mit deinen Ideen erweiterst du kontinuierlich unseren Frontend-Stack\n    Du führst Code Reviews im Team durch und arbeitest im Pair Programming, um die Qualität zu verbessern und Know-How zu verteilen\n\nDas bringst du mit\n\n    Praktische Erfahrungen mit den Technologien React, Typescript, HTML5, CSS\n    Erfahrung in Unit- und Systemtests mit Technologien wie Jest, Karma, Cypress\n    Eine Affinität für Usability und Barrierefreiheit\n    Spaß am Arbeiten im Team und Erfahrung mit agilen Methoden\n    Gute Deutschkenntnisse\n\n",
+		"skillList": "react, typescript, jest, karma, cypress",
+		"publicationDate": "2023-02-18"
+	},
+	{
+		"id": 83,
+		"title": "Frontend Entwickler",
+		"company": "Sybit GmbH",
+		"url": "https://www.get-in-it.de/jobsuche/p105648",
+		"description": "Dein Wirkungsbereich\n\n    Innerhalb unseres interdisziplinären Scrum-Teams entwickelst du Weblösungen testgetrieben und komponentenorientiert\n    Du baust Frontend-Technologie-Stacks auf und entwickelst diese weiter\n    Dein Projektteam unterstützt du beratend in der Auswahl der Frontend-Technologie\n    Du entwirfst Software-Architekturen für Web-Applikationen\n    In enger Zusammenarbeit mit UX-Expert*innen entwickelst du webbasierte User Interfaces,Pattern Libraries und Styleguides\n\nDein Talent\n\n    Du hast bereits Erfahrung mit der Umsetzung von Single-Page-Applications unter Verwendung komponentenorientierter Frameworks wie Vue, Angular oder React\n    JavaScript, HTML5, CSS3 beherrschst du vollumfänglich und nutzt sie um performante, cross-browser kompatible Webseiten zu entwickeln\n    Du verfügst über gute Kenntnisse in den Themenbereichen Usability, Accessibility und Performance\n    Du bist überzeugend und kommunikationsstark – sowohl in Deutsch als auch in Englisch\n    Deine Fähigkeiten möchtest du in unserem interdisziplinären Projektteam vertiefen und dein Wissen mit anderen teilen",
+		"skillList": "react, angular, vue, typescript",
+		"publicationDate": "2023-02-19"
+	},
+	{
+		"id": 84,
+		"title": "Web / Frontend Entwickler",
+		"company": "UNIORG Gruppe",
+		"url": "https://www.jobware.de/job/web-frontend-entwickler-w-m-d.913427475.html",
+		"description": "\nIhre Aufgaben\n\n    Konzeption und Umsetzung von modernen, responsiven UI/UX-Designs\n    Eigenständige Programmierung moderner Webapplikationen in SAPUI5 und SAP Fiori Elements\n    Mitarbeit an der Neuentwicklung von Software-Systemen mit Schwerpunkt Frontend unter Anwendung moderner Web-Technologien\n    Planung, Programmierung und Durchführung von Testläufen\n    Weiterentwicklung und Optimierung bestehender Produkte\n\nIhr Profil\n\n    Ein (Fach-) Hochschulstudium (z.B. Informatik, Wirtschaftsinformatik) oder eine vergleichbare Ausbildung mit entsprechender Berufserfahrung\n    Fundierte Kenntnisse in klassischen und modernen Webtechnologien (z.B. Vue.JS, Node.JS, TypeScript/JavaScript, Angular, React, SAPUI5 / OpenUI5)\n    Erfahrung in der Gestaltung und Entwicklung moderner Frontends (UI/UX)\n    Begeisterung für aktuelle technologische Trends rund um die Web-Entwicklung\n    Teamfähigkeit, Motivation, Eigenverantwortung und Zuverlässigkeit\n    Sehr gute Deutsch- und Englischkenntnisse\n\n",
+		"skillList": "react, vue, angular, typescript, node, openui5, sapui5",
+		"publicationDate": "2023-02-20"
+	},
+	{
+		"id": 85,
+		"title": "Frontend Developer",
+		"company": "Arvato Systems Digital Gmbh",
+		"url": "https://www.stepstone.de/stellenangebote--Frontend-Developer-m-w-d-I-React-Angular-Rheda-Wiedenbrueck-Arvato-Systems-Digital-GmbH--9247041-inline.html?rltr=3_3_25_seorl_m_1_0_0_0_0_0",
+		"description": "Aufgaben\n\nAls international agierender IT-Spezialist, suchen wir dich als Frontend Developer (m/w/d) I React, Angular. In unserer modernen, hybriden Arbeitskultur entscheidest du selbst an welchem unserer Standorte du arbeiten möchtest: Gütersloh, Köln, Rheda-Wiedenbrück, Hamburg, München, Leipzig, Rostock oder Wilhelmshaven mit der Flexibilität mobil z. B. im Home-Office tätig zu sein.\n\nDein künftiges Team vereint 15 Menschen, die unsere Kundenprojekte mit viel Begeisterung und Engagement voranbringen. Uns alle vereint ein tiefes Verständnis für Technologie und der Spaß daran, die bestmöglichen Lösungen für renommierte Unternehmen zu gestalten. Im Zuge des Wachstums suchen wir dich zur Erweiterung unseres Teams.\n\nWelche Aufgaben erwarten dich\n\n    Du arbeitest in komplexen IT-Projekten für unsere Kunden (führende, internationale Marken sowie große Medienkonzerne)\n    Du erstellst die Frontendlösungen für unsere Web- und CMS-Lösungen unter Einsatz von modernen Webtechnologien und bist in die Erstellung und Betreuung des Build-Prozesses eingebunden\n    Du bist Ansprechpartner (m/w/d) für die technische Beratung unserer Kunden sowie unseres Vertriebs- und Business Development-Teams\n    Du identifizierst als kompetenter Ansprechpartner (m/w/d) die Bedarfe unserer Kunden in der Industriebranche und sorgst für deren Umsetzung\n    Du teilst deine Erfahrungen und dein Wissen im Team und sorgst kontinuierlich für die Aufrechterhaltung der Qualität unserer Dienstleistung\n\nProfil\n\n    Du bist an UI/UX interessiert und bringst deine Erfahrung in die Optimierung des Designs ein?\n    Du verfügst über Erfahrungen in einigen klassischen und modernen Webtechnologien (z. B. Javascript, TypeScript, React, Angular, HTML, CSS, SASS) sowie im Bereich von Webpack oder vergleichbaren Build Tools?\n    Idealerweise hast du bereits mit Content Management Systemen gearbeitet?\n    Du kennst dich mit der Architektur und den Entwurfsmustern von komplexen, modernen Web Frontend Lösungen aus?\n    Du bist Softwareentwickler (m/w/d) aus Leidenschaft?\n\nDann bist DU bei uns genau richtig! Wir suchen nicht einfach Mitarbeitende, sondern engagierte Menschen mit Persönlichkeit, die innovativ denken und ihre Arbeit mit Leidenschaft machen.\n\nAuch wenn du nicht alle unsere Wünsche erfüllst, zögere nicht dich bei uns zu bewerben, denn WEITERENTWICKLUNG unserer Mitarbeitenden wird bei uns großgeschrieben und eröffnet dir in unserem Unternehmen vielfältige Möglichkeiten.",
+		"skillList": "react, angular, typescript, sass",
+		"publicationDate": "2023-02-21"
+	},
+	{
+		"id": 86,
+		"title": "Frontend Entwickler",
+		"company": "ALTEN Group",
+		"url": "https://www.jobware.de/job/frontend-entwickler-react-m-w-d.1090719185.html",
+		"description": "Stellenbeschreibung\n\n    Mitwirkung bei der Konzeption von Webanwendungen mit modernen Frameworks in agilen Scrum-Teams\n    Evaluierung und Einführung innovativer Frontend-Technologien\n    Definition und Pflege technischer Qualitätsstandards in der Software-Entwicklung\n    Zusammenarbeit mit den jeweiligen Teams aus Backend, Frontend und Design\n\nQualifikationen\n\n    Abgeschlossenes Studium der Informatik oder eine vergleichbare Qualifikation \n    Relevante Erfahrung in Frontendentwicklung von Webanwendungen und Applikationen mit React und JavaScript/TypeScript\n    Routinierter Umgang mit Microservices, Docker und Kubernetes sowie Kenntnisse mit UI/UX-Frameworks\n    Sehr gute Deutsch- und Englischkenntnisse\n",
+		"skillList": "react, typescript, microservices, docker, kubernetes, ux",
+		"publicationDate": "2023-02-22"
+	},
+	{
+		"id": 87,
+		"title": "Software Engineer Frontend",
+		"company": "Limebit GmbH",
+		"url": "https://www.xing.com/jobs/berlin-software-engineer-frontend-full-stack-react-typescript-97364792",
+		"description": "Aufgaben\n\nZu Deiner Rolle\n\nDie Gestaltung deiner Aufgaben bei Limebit gehen wir zusammen an. Abhängig von deinen Erfahrungen und deinen Interessen werden wir dich in folgenden Bereichen einsetzen:\n\n    Softwaredevelopment & Consulting in Kund:innenprojekten\n    Projektmanagement für interne & externe Projekte\n\nAufgaben/Arbeitsbereiche für die ersten 6 Monate bei uns\n\nFür das erste Halbjahr 2023 stehen bereits 2 konkrete Projekte an, an denen du mitwirken wirst:\n\n    Relaunch der Partei-Website einer Partei des deutschen Bundestags (NextJs, TypeScript, GraphQL)\n    Entwicklung einer Suchmaschine für Hilfsmittel-Produkte im Sanitätshaus (Remix, TypeScript, Algolia, Postgres, Prisma)\n\nAußerdem wird es ein drittes, ggf. externes Projekt geben bei dem Du komplett eigenständig als Software Engineer von Limebit beim Kunden arbeitest.\nQualifikation\n\nDinge, bei denen du das Team unterstützt\n\n    Software Development mit React, TypeScript, NodeJs, Tailwind, NextJs, Remix\n    Software Engineering mit typischen Tools (Git, GitFlow, GitHub, GitLab, Jira)\n    Deployment & Hosting (Vercel, Netlify, DigitalOcean, ggf. AWS)\n    Aufsetzen von CI/CD Pipelines\n\nDinge, bei denen du vom Team unterstützt wirst\n\n    ggf. Aufbau von AWS Infrastruktur\n    CI/CD Pipelines für Python/Machine Learning Projekte\n    Ggf. Einarbeitung in Python (falls du hier interesse hast)",
+		"skillList": "react, typescript, nextjs, node, graphql, remix, algolia, postgres, prisma, tailwind, git, gitflow, github, gitlab, jira, vercel, netlify, digitalocean, aws, cicd, python, machinelearning",
+		"publicationDate": "2023-02-23"
+	},
+	{
+		"id": 88,
+		"title": "Frontend Developer",
+		"company": "Dualis GmbH",
+		"url": "https://www.get-in-it.de/jobsuche/p215803",
+		"description": "Deine Aufgaben\n\n    Du entwirfst und implementierst neue Funktionen für unsere GANTTPLAN Web-Applikation mit Vue.js\n    Zum Abruf und der Aufbereitung von Daten entwickelst du mit dem Backend Team die REST-API Schnittstellen\n    Du bringst deine Ideen ein, um unsere Software für die Nutzer ständig zu optimieren\n    Du bearbeitest das Feedback sowie die Wünsche der Kunden, sodass Lösungen für alle Anwendenden bereitgestellt werden (3rd Level Support)\n    Codereviews mit Kollegen und Softwaretests gehören zu deinem Arbeitsalltag\n\nDeine Kenntnisse\n\n    Du hast Erfahrung mit HTML5, CSS und JavaScript sowie aktuellen Frontend Frameworks (z.B. Vue.js, React, Angular)\n    Die Gestaltung von modernen und intuitiven Benutzeroberflächen bereitet dir Freude\n    Die Kommunikation im Team erfolgt auf Deutsch und ist für dich problemlos möglich (Niveau B2)",
+		"skillList": "vue, react, angular, rest",
+		"publicationDate": "2023-02-24"
+	},
+	{
+		"id": 89,
+		"title": "Frontend Developer",
+		"company": "snapADDY GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Frontend-Developer-TypeScript-Angular-Ionic-m-w-d-Wuerzburg-snapADDY-GmbH--8962222-inline.html?rltr=7_7_25_seorl_m_0_0_0_0_0_0",
+		"description": "Your daily doing will involve\n\n    Developing our snapADDY products based on browser extensions, mobile apps, and web apps.\n    Diverse responsibilities including mobile app development with Ionic Web Apps in Angular based on Web Components\n    As part of our agile team, you are in charge of your own tasks and responsibilities\n\nYour profile\n\n    Knowledge of modern software development in the web application field\n    Previous experience with web app frameworks (such as Angular, React, or Vue)\n    Knowledge of the most important technologies used by us or an interest to learn style\n    An open and friendly personality who enjoys working with colleagues as a part of the team\n\nOur technologies\n\n    Development in JavaScript and TypeScript\n    Web and apps: Angular, Ionic, Cordova, Web Extensions\n    Backend: NodeJS, NestJS, TypeORM, PostgreSQL, Redis\n    Tools: GitHub with ZenHub, Slack, Github Actoons, Ionic AppFlow\n    Hosting: Amazon Web Services (AWS), Lambda Functions, Kubernetes\n\nNice-to-have\n\n    Experience with Amazon Web Services (AWS)\n    Knowledge about APIs and Integrations of B2B applications like Salesforce or Microsoft Dynamics\n",
+		"skillList": "angular, react, vue, typescript, ioniccordova, ionicappflow, node, nestjs, typeorm, postgres, redis, github, zenhub, githubactions, aws, awslambda, docker, kubernetes",
+		"publicationDate": "2023-02-25"
+	},
+	{
+		"id": 90,
+		"title": "Frontend Expert",
+		"company": "ALDI Süd IT",
+		"url": "https://www.get-in-it.de/jobsuche/p187962",
+		"description": "Deine Aufgaben\n\n    Durchführung von Nutzerforschung, Definition von Nutzer-Personas und Erstellung von User Journeys\n    Schaffung unverwechselbarer, markengeschützter digitaler Erlebnisse, die über mehrere Plattformen, Geräte und Kanäle hinweg konsistent sind\n    Erstellung von Produktkonzepten, Storyboards, Interaktionsdesigns, Screen-Flows, Prototypen und vollständigen Anwendungen\n    Durchführung von Konzept- und Usability-Tests zur iterativen Validierung und Verbesserung von Designlösungen\n    Sicherstellung, dass der Code den neuesten Kodierungspraktiken und Industriestandards entspricht\n    Enge Zusammenarbeit mit Backend-Entwickler:innen, um die Daten bzw. APIs des Systems zu verstehen und richtig zu nutzen\n    Erstellung von sowohl Unit- als auch Integrationstests und Entwicklung von Automatisierungswerkzeugen\n    Aktive Mitarbeit im agilen Team, um sicherzustellen, dass die Entwürfe realisierbar sind und korrekt umgesetzt werden\n    Verfolgung von Metriken zur User Experience und Berichte/Analysen über den Erfolg von UX-Verbesserungen\n\nDein Profil\n\n    Erfahrung als Frontend Expert in der Entwicklung moderner JavaScript-basierter Webanwendungen, Frameworks und Bibliotheken wie React, Angular usw.\n    Fähigkeit zur Planung, Durchführung und Synthese von Nutzerforschung und Usability-Tests\n    Fachliche Erfahrung mit HTML, CSS/LESS/SCSS/etc., JavaScript und Responsive Design\n    Erfahrung in der mobilen Entwicklung mit nativen oder Web-to-Native-Tools und -Frameworks\n    Verständnis von RESTful APIs sowie deren Einsatz in der Praxis\n    Fähigkeit effektive Unit-, Integrations- und Endbenutzer-Automatisierungstests zu schreiben\n    Erfahrung als Entwickler:in von Dashboards, die grafische Visualisierungstools, insbesondere Tableau, nutzen\n    Ausgeprägte Fähigkeiten im Bereich visuelles Design und Fähigkeit, überzeugende, markengerechte und High-Fidelity-Produktbildschirme zu erstellen",
+		"skillList": "react, angular, testing, sass, responsive, rest, tableau",
+		"publicationDate": "2023-02-26"
+	},
+	{
+		"id": 91,
+		"title": "Software Entwickler TypeScript",
+		"company": "ZwickRoell GmbH & Co. KG",
+		"url": "https://www.stepstone.de/stellenangebote--Softwareentwickler-TypeScript-m-w-d-Ulm-ZwickRoell-GmbH-Co-KG--9168936-inline.html",
+		"description": "Deine Aufgaben\n\n    Freu Dich darauf, eine moderne Plattform zu entwickeln - in einem technologisch innovativen Umfeld mit neuesten High-Tech-Entwicklungen und -Infrastrukturen.\n    Du wirst Teil unseres Teams sein, das standardisierte Softwarelösungen mit höchsten Ansprüchen entwickelt, wodurch unsere Kunden und Servicetechniker in ihrer täglichen Arbeit bestmöglich unterstützt werden.\n    Die excellente User-Experience von Softwareprodukten wie testXpert Analytics und unserer Service-Plattform werden durch Dich vorangebracht.\n\nDein Profil\n\n    Mindestens drei Jahre Erfahrung in der Softwareentwicklung mit TypeScript (Frontend / Backend)\n    Kenntnisse in der Konzeption und Erstellung anspruchsvoller Softwarekomponenten\n    Sehr gute Kenntnisse in REST / GraphQL / Socket.IO sowie im Umgang mit Test-Frameworks und Test-Driven Development\n    Du hast bereits in einem agilen Scrum-Umfeld gearbeitet.\n    Erfahrung in diesen Bereichen ist ein Plus: NodeJS, Angular, C++, MongoDB, Jira, Confluence, Lint, Teamscale.\n    Mit Begeisterung für neue, zukunftsweisende Lösungen und schnellem technischem Verständnis bringst Du Dich und unsere Softwarelösungen weiter nach vorne.",
+		"skillList": "typescript, node, mongodb, angular, rest, graphql, socketio, testing, cplusplus, jira, confluence",
+		"publicationDate": "2023-02-27"
+	},
+	{
+		"id": 92,
+		"title": "IT Softwareentwickler",
+		"company": "statmath GmbH",
+		"url": "https://www.jobware.de/job/it-softwareentwickler-angular-typescript-m-w-d.1008880895.html",
+		"description": "\nDAS SIND DEINE AUFGABEN:\n\nDu wirst sowohl bei der Entwick­lung bestehender Services wie der DataScience Toolbox als auch bei der Konzeption weiterer statmath und ifm Produkte mit­wirken.\n\nFolgende Aufgaben über­nimmst du konkret:\n\n    Über­nahme der Schnitt­stellen­funktion zwischen dem UI/UX Team sowie dem Backendteam\n    Design und Entwick­lung von Microservices-Produkte mit Angular 10 (Update auf Angular 14 erfolgt zeitnah) unter Verwen­dung von TypeScript\n    Entwick­lung neuer Ideen für KI-basierte Software­produkte\n    Durch­führung von Code Reviews sowie Pair-Program­mierung\n\nDAS BRINGST DU MIT:\n\n    Praktische Berufs­erfahrung als Entwickler (m/w/d) mit Schwer­punkt Angular, alternativ React\n    Gute Kennt­nisse im Umgang mit TypeScript, JavaScript, HTML5 und CSS3\n    Nice to have: Du hast Spaß an Usability und der Gestal­tung von Bedienungs­konzepten (UX)\n    Mindestens gute Deutsch- und gute Englisch­kennt­nisse\n\n",
+		"skillList": "angular, react, typescript, microservices, ai, ux",
+		"publicationDate": "2023-02-28"
+	},
+	{
+		"id": 93,
+		"title": "Praktikum Webentwicklung",
+		"company": "Trox Technik",
+		"url": "https://www.jobware.de/job/werkstudententaetigkeit-praktikum-webentwicklung-react.901787085.html",
+		"description": "Ihr Profil:\n\n    Erfahrung im Umgang mit React oder vergleichbaren Webframeworks, Javascript/TypeScript, CSS\n    Erfahrungen mit GraphQL und Apollo Client von Vorteil\n    Studium der (Medien-) Informatik oder vergleichbares\n    Sehr gute bis gute bisherige Studienleistung\n    Strukturierte und selbstständige Arbeitsweise, eine schnelle Auffassungsgabe\n    Ausgeprägte Teamfähigkeit, gute Sprachkenntnisse in deutsch und englisch\n    Aktuell immatrikuliert und das Studium ist noch nicht abgeschlossen \n\nIhre Aufgaben:\n\n    Entwicklung von webbasierten Konfigurations- und Steuerungsoberflächen für unsere Produkte\n    Frontend-Entwicklung mit React und TypeScript\n    Entwicklung automatisierter Frontend-Tests\n    Arbeit in einem SCRUM-Team unter Verwendung moderner Softwaretools und Programmbibliotheken\n",
+		"skillList": "react, typescript, graphql, apollo, testing",
+		"publicationDate": "2023-03-01"
+	},
+	{
+		"id": 94,
+		"title": "Frontend Entwickler Vue",
+		"company": "msg life ag",
+		"url": "https://www.stepstone.de/stellenangebote--Frontend-Entwickler-Vue-m-w-d-Hamburg-Koeln-Leinfelden-Echterdingen-bei-Stuttgart-Muenchen-deutschlandweit-msg-life-ag--9219833-inline.html?rltr=4_4_25_seorl_m_0_0_0_0_1_0",
+		"description": "Deine Aufgaben\n\n    Du bist Teil unseres Developer Teams und entwickelst attraktive und zielgruppenorientierte Web-Frontends für unsere Software\n    Dabei nutzt Du moderne Architekturansätze (Single Page Applications) und Technologien (HTML5, TypeScript, CSS)\n    Du implementierst Web-Frontends und orientierst Dich dabei an unserem UX/UI-Designkonzept\n    Du konzipierst Frameworks und Komponentenbibliotheken für die Frontend-Entwicklung und setzt diese um\n    Du entwickelst automatisierte End-2-End-Tests\n\nDeine Qualifikation\n\n    Idealerweise ein Studium der Informatik, einer verwandten Fachrichtung oder eine vergleichbare Qualifikation im IT-Bereich\n    Sehr gute Kenntnisse aktueller Web-Technologien, Frameworks (Vue) und Komponentenbibliotheken (z.B. Vuetify, Quasar)\n    Zusätzlich idealerweise Kenntnisse einschlägiger Test Tools und Testing Libraries (z.B. Cypress)\n    Gute deutsche und englische Sprachkenntnisse für ein internationales Aufgabenumfeld",
+		"skillList": "vue, vuetify, quasar, cypress, testing, ux",
+		"publicationDate": "2023-03-02"
+	},
+	{
+		"id": 95,
+		"title": "Frontend Software Engineer Vue.js",
+		"company": "Mercedes-Benz Tech Innovation",
+		"url": "https://www.stepstone.de/stellenangebote--Frontend-Software-Engineer-m-w-d-vue-js-Karlsruhe-Mercedes-Benz-Tech-Innovation--8741060-inline.html?rltr=5_5_25_seorl_m_0_0_0_0_0_0",
+		"description": "Aufgaben\n\n\n    Wir suchen Frontend Software Engineers, die genau wie wir für agile und moderne Softwareentwicklung brennen, die Impulse geben und mit ihrer Eigeninitiative die digitalen Produkte von morgen gestalten wollen.\n\n    Du hast Lust auf die Arbeit in einem cross-funktionalen und begeisterndem Team und möchtest gemeinsam mit uns die digitale Zukunft von Mercedes-Benz gestalten?\n\n    Dabei hast du die Möglichkeit eigenverantwortlich in einem agilen Scrum Team Neuentwicklungen umzusetzen, testen und Bugs zu beheben.\n\n    In deinen Verantwortungsbereich fallen unter anderem Aufgaben wie die Konzeption und Definition für Microservices und REST Schnittstellen sowie die Frontend-Entwicklung mit Technologien wie Vue.js, Javascript, Typescript, Java und Angular.\n\n    Zudem stellst du Arbeitsergebnisse beim Auftraggeber oder Product Owner vor.\n\nQualifikationen\n\n\n    Du hast ein erfolgreich abgeschlossenes Studium der Informatik bzw. Wirtschaftsinformatik und bringst bereits einige Jahre Berufserfahrung mit.\n\n    Du arbeitest gerne im Team, kannst offen und empathisch kommunizieren sowie dich strukturiert und schnell in neue Themen einarbeiten.\n\n    Mit Scrum oder Extreme Programming kennst du dich bestens aus.\n\n    Du konntest bereits Erfahrung in der Frontend-Entwicklung (vue.js und Angular ab Version 7) sammeln.\n\n    Außerdem kannst du uns mit guten Programmierkenntnissen in JavaScript, TypeScript und nestJS unterstützen und kannst dich schnell in andere Programmiersprachen wie z.B. Java, Kotlin und Golang einarbeiten.\n\n    Idealerweise hast du bereits Erfahrungen mit Containerumgebungen gemacht (z.B. Kubernetes), mit Datenbanken gearbeitet (postgreSQL / MS SQL) und Erfahrung mit Azure, AWS, Terraform oder Golang.\n\n    Du hast einen sicheren Umgang mit der CI/CD Pipeline (Atlassian Toolbar, Jenkins, Artifactory).\n\n    Du hast Lust darauf interdisziplinär in einem agilen Entwicklungsteam zu arbeiten und ergänzt unser Team mit sehr guten Deutsch- und Englischkenntnissen in Wort und Schrift.",
+		"skillList": "vue, angular, typescript, rest, nestjs, java, kotlin, go, docker, kubernetes, postgres, mssql, azure, aws, terraform, cicd, jenkins, artifactory",
+		"publicationDate": "2023-03-03"
+	},
+	{
+		"id": 96,
+		"title": "Webentwickler",
+		"company": "WFB Wirtschafsförderung Bremen GmbH",
+		"url": "https://www.stepstone.de/stellenangebote--Webentwickler-m-w-d-Bremen-WFB-Wirtschaftsfoerderung-Bremen-GmbH--9232502-inline.html?rltr=19_19_25_seorl_m_0_0_0_0_1_0",
+		"description": "Ihre Herausforderung:\n\n    Backend und/oder Frontend Programmierung\n    Anpassungen an HTML und CSS bis hin zur testgetriebenen, objektorientierten Programmierung in einem automatisierten Continuous Integration Umfeld\n\nSie bringen mit:\n\n    Einschlägiger Hochschulabschluss oder passende, abgeschlossene Berufsausbildung,\n    Kenntnisse in Backend und/oder Frontend Programmierung mit PHP, HTML, CSS, JS usw.\n    Erfahrung in der Webentwicklung und Kenntnisse in Javascript/PHP Frameworks (z.B. Laravel, vue.js, tailwind.css)\n    Erfahrung im Umgang mit Git\n    Erfahrungen mit Scrum und agiler Softwareentwicklung sind gern gesehen, werden sonst in Form von Training on the Job auch vermittelt\n    Gutes Deutsch in Wort und Schrift (mindestens B1)\n",
+		"skillList": "vue, php, laravel, tailwind, git",
+		"publicationDate": "2023-03-04"
+	},
+	{
+		"id": 97,
+		"title": "Frontend Developer React/Vue.js",
+		"company": "Jungwild GmbH",
+		"url": "https://www.xing.com/jobs/koeln-frontend-developer-react-vue-js-97844648?paging_context=search&search_query%5Bkeywords%5D=vue.js&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Das könnten deine Aufgaben sein:\n\n    Du entwickelst User Interfaces und (mobile) Applikationen auf Basis von modernen JavaScript Frameworks, wie Vue.js oder React\n    Du konzipierst, entwickelst und implementierst performante Web Applikationen\n    Du arbeitest an einer optimalen Nutzerfreundlichkeit und einer stimmigen Oberfläche\n    Du begeisterst dich für State-of-the-Art Technologien und du bringst Tech Innovationen aktiv in die Produktlandschaft unseres Kunden ein\n    Zu deinem Alltag gehören zudem performante Codes sowie die Durchführung von Code Reviews \n\nDas bringst du mit:\n\n    Ein abgeschlossenes Studium oder eine abgeschlossene Berufsausbildung in einem relevanten Bereich\n    Erste Berufserfahrung als Frontend Developer (m/w/d)\n    Du bringst Kenntnisse im Umgang mit JavaScript Frameworks wie React oder Vue.js mit\n    Agile Entwicklungsumgebungen sind wir nicht nichts Neues\n    Gute Deutsch- und Englischkenntnisse runden dein Profil ab ",
+		"skillList": "react, vue",
+		"publicationDate": "2023-03-05"
+	},
+	{
+		"id": 98,
+		"title": "Frontend Entwickler IoT (Vue)",
+		"company": "grandcentrix GmbH (Vodafone)",
+		"url": "https://www.stepstone.de/stellenangebote--Frontend-Entwickler-IoT-Vue-mit-Homeoffice-in-Voll-oder-Teilzeit-gn-Koeln-Dortmund-Duesseldorf-Essen-Duisburg-Bochum-Wuppertal-Neuss-Bonn-Koblenz-Aachen-Hagen-grandcentrix-GmbH-a-Vodafone-Company--9150006-inline.html?rltr=5_5_25_seorl_m_1_0_0_0_1_0",
+		"description": "Das bringt der Job\n\n    Erstelle erstklassige Single-Page-Webanwendungen (SPA) für unsere innovativen IoT-Produkte (z.B. Smart Metering oder Tracking)\n    Dabei bestimmst du den langfristigen Produkterfolg im agilen Arbeitsumfeld maßgeblich mit\n    Durch permanente Code-Reviews stellen wir eine hohe Qualität sicher – hierbei gibst du deine Expertise weiter und profitierst von Feedback\n    Als wichtiger Teil eines crossfunktionalen Teams hast du nicht nur dein Feature, sondern das große Ganze im Blick\n    In enger Zusammenarbeit mit Schnittstellen zu unseren UX/UI-Designern hast du einen großen Einfluss auf das Look & Feel unseres smarten Produktportfolios\n\nDas bringst du mit\n\n    Mindestens 5 Jahre Entwicklungserfahrung mit Typescript und Vue.js – Know-how mit E2E-Tests sind ein Pluspunkt\n    Eine gute User Experience ist dir wichtig und du hast ein Auge für ansprechendes Design\n    Gerne tauschst du dich im Team aus, arbeitest jedoch auch für dich und besorgst dir selbstständig fehlende Informationen\n    Neue Technologien reizen dich – du strebst danach, dich stetig weiterzuentwickeln\n    Pinia, Vite, Vitest und Cypress kennst du und hast diese im Optimalfall bereits verwendet\n",
+		"skillList": "vue, typescript, pinia, vite, vitest, cypress, testing",
+		"publicationDate": "2023-03-06"
+	},
+	{
+		"id": 99,
+		"title": "Frontend Developer Vue.js",
+		"company": "Audiocation GmbH",
+		"url": "https://www.xing.com/jobs/lippstadt-frontend-developer-vue-js-98057392?paging_context=search&search_query%5Bkeywords%5D=vue.js&search_query%5Blimit%5D=20&search_query%5Boffset%5D=0&ijt=jb_18",
+		"description": "Aufgaben\n\n    Entwicklung und Betreuung eines Lernplattform-Frontends auf Basis von Vue.js mit gemeinsamer Codebasis für Web, Android und iOS.\n    Umsetzung eines modernen, responsiven und benutzerfreundlichen UI/UX-Designs unter Einhaltung von Webstandards.\n    Kontinuierliche Erweiterung des Funktionsumfangs und Optimierung der Benutzerfreundlichkeit.\n    Zusammenarbeit mit dem Backend-Programmierung bei der Integration von APIs und Microservices.\n    Evtl. Weiterentwicklung bestehender interner Applikationen (Basis: C#).\n\nQualifikation\n\n    Abgeschlossener Studienabschluss in Informatik oder eine vergleichbare Ausbildung.\n    Einschlägige, mehrjährige Projekterfahrung in der Entwicklung von modernen Webanwendungen sowie der Verwendung von Web Frameworks – idealerweise Vue.js und Cordova (wünschenswert).\n    Sehr gute Kenntnisse in HTML, CSS, TypeScript / JavaScript, Vue.js und C# (wünschenswert).\n    Verständnis von User-Centered Design und Accessibility.\n    Grundlegende Erfahrung im Bereich Continous Integration / Delivery.\n    Team- und Kommunikationsfähigkeit.\n    Gute Deutsch- und grundlegende Englischkenntnisse.",
+		"skillList": "vue, typescript, csharp, accessibility, cicd",
+		"publicationDate": "2023-03-07"
+	}
+]
