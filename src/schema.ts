@@ -10,7 +10,7 @@ export const schema = buildSchema(`
 
         type Job {
             id: Int,
-            title: String,
+            title: String, 
             company: String,
             url: String,
             description: String,
