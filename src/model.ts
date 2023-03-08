@@ -32,6 +32,10 @@ export const getApiInstructions = () => {
 	<li><a href="http://localhost:${config.port}/skills"><code>/skills</code></a> - all skills</li>
 	<li><a href="http://localhost:${config.port}/skills/react"><code>/skills/react</code></a> - skill with id 2</li>
 </ul>
+<h2>GraphQL</h2>
+<ul>
+	<li><a href="http://localhost:${config.port}/graphql"><code>/graphql</code></a> - skill with id 2</li>
+</ul>
 	`;
 }
 

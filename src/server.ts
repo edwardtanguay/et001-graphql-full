@@ -19,7 +19,9 @@ const root = {
 		"Marketing",
 		"Executive",
 		"Development"
-	]
+	],
+	jobs: model.getJobs(),
+	skills: model.getSkills()
 };
 
 app.use(
