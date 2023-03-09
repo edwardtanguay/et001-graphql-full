@@ -3,8 +3,7 @@ import express from 'express';
 import cors from 'cors';
 import * as config from './config.js';
 import { graphqlHTTP } from 'express-graphql';
-import { buildSchema, GraphQLSchema, GraphQLObjectType, GraphQLInt, GraphQLString, GraphQLList } from 'graphql';
-// import { schema } from './schema.js';
+import { GraphQLSchema, GraphQLObjectType, GraphQLInt, GraphQLString, GraphQLList } from 'graphql';
 
 const jobs = model.getJobs();
 
@@ -24,7 +23,7 @@ const JobType = new GraphQLObjectType({
 const rootQuery = new GraphQLObjectType({
 	name: "RootQueryType",
 	fields: {
-		getAllUsers: {
+		jobs: {
 			type: new GraphQLList(JobType),
 			args: { id: { type: GraphQLInt } },
 			resolve(parent, args) {
@@ -36,7 +35,7 @@ const rootQuery = new GraphQLObjectType({
 const mutation = new GraphQLObjectType({
 	name: "Mutation",
 	fields: {
-		createUser: {
+		createJob: {
 			type: JobType,
 			args: {
 				title: { type: GraphQLString },
@@ -44,7 +43,7 @@ const mutation = new GraphQLObjectType({
 				url: { type: GraphQLString }
 			},
 			resolve(parent, args) {
-				jobs.push({
+				const newJob = {
 					id: jobs.length + 1,
 					title: args.title,
 					company: args.company,
@@ -52,14 +51,15 @@ const mutation = new GraphQLObjectType({
 					description: '',
 					skillList: '',
 					publicationDate: '',
-				});
-				return args;
+				};
+				jobs.push(newJob);
+				return newJob;
 			}
 		}
 	}
 })
 
-const schema = new GraphQLSchema({ query: rootQuery, mutation })
+const schema = new GraphQLSchema({ query: rootQuery, mutation });
 
 
 const app = express();
