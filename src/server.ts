@@ -31,7 +31,8 @@ const rootQuery = new GraphQLObjectType({
 			}
 		}
 	}
-})
+});
+
 const mutation = new GraphQLObjectType({
 	name: "Mutation",
 	fields: {
@@ -53,7 +54,7 @@ const mutation = new GraphQLObjectType({
 					publicationDate: '',
 				};
 				jobs.push(newJob);
-				return newJob;
+				return args;
 			}
 		}
 	}
