@@ -25,9 +25,14 @@ const rootQuery = new GraphQLObjectType({
 	fields: {
 		jobs: {
 			type: new GraphQLList(JobType),
-			args: { id: { type: GraphQLInt } },
+			args: {
+				titleContains: { type: GraphQLString }
+			},
 			resolve(parent, args) {
-				return jobs
+				return jobs.filter(
+					(job) =>
+						!args.titleContains || job.title.toLowerCase().includes(args.titleContains.toLowerCase())
+				);
 			}
 		}
 	}
