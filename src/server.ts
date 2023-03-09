@@ -3,7 +3,64 @@ import express from 'express';
 import cors from 'cors';
 import * as config from './config.js';
 import { graphqlHTTP } from 'express-graphql';
-import { schema } from './schema.js';
+import { buildSchema, GraphQLSchema, GraphQLObjectType, GraphQLInt, GraphQLString, GraphQLList } from 'graphql';
+// import { schema } from './schema.js';
+
+const jobs = model.getJobs();
+
+const JobType = new GraphQLObjectType({
+	name: "Job",
+	fields: () => ({
+		id: { type: GraphQLInt },
+		title: { type: GraphQLString },
+		company: { type: GraphQLString },
+		url: { type: GraphQLString },
+		description: { type: GraphQLString },
+		skillList: { type: GraphQLString },
+		publicationDate: { type: GraphQLString },
+	})
+})
+
+const rootQuery = new GraphQLObjectType({
+	name: "RootQueryType",
+	fields: {
+		getAllUsers: {
+			type: new GraphQLList(JobType),
+			args: { id: { type: GraphQLInt } },
+			resolve(parent, args) {
+				return jobs
+			}
+		}
+	}
+})
+const mutation = new GraphQLObjectType({
+	name: "Mutation",
+	fields: {
+		createUser: {
+			type: JobType,
+			args: {
+				title: { type: GraphQLString },
+				company: { type: GraphQLString },
+				url: { type: GraphQLString }
+			},
+			resolve(parent, args) {
+				jobs.push({
+					id: jobs.length + 1,
+					title: args.title,
+					company: args.company,
+					url: args.url,
+					description: '',
+					skillList: '',
+					publicationDate: '',
+				});
+				return args;
+			}
+		}
+	}
+})
+
+const schema = new GraphQLSchema({ query: rootQuery, mutation })
+
 
 const app = express();
 app.use(cors());

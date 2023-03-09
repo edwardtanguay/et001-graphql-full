@@ -4,7 +4,7 @@ export interface IJob {
 	company: string;
 	url: string;
 	description: string;
-	skillList: number;
+	skillList: string;
 	publicationDate: string;
 }
 
